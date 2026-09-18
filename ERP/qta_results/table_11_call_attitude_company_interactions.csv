@@ -1,0 +1,17 @@
+level,outcome,comparison_group,base_group,interaction_coefficient,cluster_se,z_value,p_value,n_calls,n_firms,fixed_effects,cluster
+call,positive,enterprise_software,platform_bigtech,0.0690705044804755,0.11273392725647015,0.61268604901291,0.5400839488746398,559,45,company + year_quarter,company
+call,positive,semis_ai_infra,platform_bigtech,0.09594825898801067,0.11818314091162474,0.8118607971314544,0.4168715114938641,559,45,company + year_quarter,company
+call,positive,ai_forward_saas,platform_bigtech,0.06982372442618778,0.12583698031665086,0.5548744435100581,0.5789805435185063,559,45,company + year_quarter,company
+call,positive,data_cloud_security,platform_bigtech,0.04761642971828465,0.1258095292538283,0.3784803106783401,0.7050738176763971,559,45,company + year_quarter,company
+call,neutral,enterprise_software,platform_bigtech,-0.0809725703950878,0.11050798787283653,-0.7327304745451012,0.4637228332210226,559,45,company + year_quarter,company
+call,neutral,semis_ai_infra,platform_bigtech,-0.11111332396340036,0.11589574055669247,-0.9587351824120516,0.3376921697659013,559,45,company + year_quarter,company
+call,neutral,ai_forward_saas,platform_bigtech,-0.07362164645185645,0.11796159282774328,-0.6241153979614749,0.532551802270203,559,45,company + year_quarter,company
+call,neutral,data_cloud_security,platform_bigtech,0.004675890863602528,0.13719509988328615,0.03408205444349234,0.9728117186507671,559,45,company + year_quarter,company
+call,negative,enterprise_software,platform_bigtech,0.017903701844541767,0.01831300555640991,0.9776495610943077,0.32824767611397115,559,45,company + year_quarter,company
+call,negative,semis_ai_infra,platform_bigtech,0.01952271853632592,0.012893580633582301,1.514142509449821,0.12998969910019162,559,45,company + year_quarter,company
+call,negative,ai_forward_saas,platform_bigtech,0.015130633747866107,0.024272382639614946,0.6233682936083664,0.5330425285805731,559,45,company + year_quarter,company
+call,negative,data_cloud_security,platform_bigtech,-0.021342513222942186,0.03344270324495492,-0.6381814611880056,0.5233555636927361,559,45,company + year_quarter,company
+call,mixed,enterprise_software,platform_bigtech,-0.006001635929997957,0.014621507128618668,-0.4104662998967431,0.6814639197503816,559,45,company + year_quarter,company
+call,mixed,semis_ai_infra,platform_bigtech,-0.004357653560969182,0.015004347778993657,-0.2904260568440017,0.7714903118461186,559,45,company + year_quarter,company
+call,mixed,ai_forward_saas,platform_bigtech,-0.01133271172218545,0.016942350024787535,-0.6688984530248229,0.5035602571013267,559,45,company + year_quarter,company
+call,mixed,data_cloud_security,platform_bigtech,-0.03094980735899868,0.02697330645429048,-1.1474235615662047,0.2512066079507272,559,45,company + year_quarter,company

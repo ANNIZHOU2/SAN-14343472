@@ -1,0 +1,19 @@
+period,metric,mean,n_calls
+Pre-GenAI (through 2022Q3),AI call presence,0.6636363636363637,330
+Pre-GenAI (through 2022Q3),AI paragraph share of full call text,0.03683823667902722,330
+Pre-GenAI (through 2022Q3),Coded AI paragraphs per call,1.8424242424242425,330
+Pre-GenAI (through 2022Q3),Positive attitude share,0.2034126984126984,330
+Pre-GenAI (through 2022Q3),Security/risk/responsibility share,0.10034632034632035,330
+Pre-GenAI (through 2022Q3),Distinct themes per call,1.6848484848484848,330
+Transition (2022Q4),AI call presence,0.58,50
+Transition (2022Q4),AI paragraph share of full call text,0.03192229706429336,50
+Transition (2022Q4),Coded AI paragraphs per call,1.5,50
+Transition (2022Q4),Positive attitude share,0.16206349206349202,50
+Transition (2022Q4),Security/risk/responsibility share,0.04722222222222222,50
+Transition (2022Q4),Distinct themes per call,1.38,50
+Post-GenAI (from 2023Q1),AI call presence,0.9392265193370166,362
+Post-GenAI (from 2023Q1),AI paragraph share of full call text,0.15173890018818914,362
+Post-GenAI (from 2023Q1),Coded AI paragraphs per call,7.582872928176796,362
+Post-GenAI (from 2023Q1),Positive attitude share,0.40762054882278353,362
+Post-GenAI (from 2023Q1),Security/risk/responsibility share,0.10294685457491418,362
+Post-GenAI (from 2023Q1),Distinct themes per call,4.428176795580111,362

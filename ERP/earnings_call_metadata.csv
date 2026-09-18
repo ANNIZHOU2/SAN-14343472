@@ -1,0 +1,717 @@
+transcriptid,event_date,companyid,companyname,title,fiscalyear,fiscalquarter,ticker,sample_group
+2183036,2021-01-27,24937,Apple Inc.,"Apple Inc., Q1 2021 Earnings Call, Jan 27, 2021",,,AAPL,platform_bigtech
+2261739,2021-04-28,24937,Apple Inc.,"Apple Inc., Q2 2021 Earnings Call, Apr 28, 2021",,,AAPL,platform_bigtech
+3405186,2021-07-27,24937,Apple Inc.,"Apple Inc., Q3 2021 Earnings Call, Jul 27, 2021",,,AAPL,platform_bigtech
+2416898,2021-10-28,24937,Apple Inc.,"Apple Inc., Q4 2021 Earnings Call, Oct 28, 2021",,,AAPL,platform_bigtech
+2484943,2022-01-27,24937,Apple Inc.,"Apple Inc., Q1 2022 Earnings Call, Jan 27, 2022",,,AAPL,platform_bigtech
+2547569,2022-04-28,24937,Apple Inc.,"Apple Inc., Q2 2022 Earnings Call, Apr 28, 2022",,,AAPL,platform_bigtech
+2608355,2022-07-28,24937,Apple Inc.,"Apple Inc., Q3 2022 Earnings Call, Jul 28, 2022",,,AAPL,platform_bigtech
+2666629,2022-10-27,24937,Apple Inc.,"Apple Inc., Q4 2022 Earnings Call, Oct 27, 2022",,,AAPL,platform_bigtech
+2728260,2023-02-02,24937,Apple Inc.,"Apple Inc., Q1 2023 Earnings Call, Feb 02, 2023",,,AAPL,platform_bigtech
+2795186,2023-05-04,24937,Apple Inc.,"Apple Inc., Q2 2023 Earnings Call, May 04, 2023",,,AAPL,platform_bigtech
+2869783,2023-08-03,24937,Apple Inc.,"Apple Inc., Q3 2023 Earnings Call, Aug 03, 2023",,,AAPL,platform_bigtech
+2948177,2023-11-02,24937,Apple Inc.,"Apple Inc., Q4 2023 Earnings Call, Nov 02, 2023",,,AAPL,platform_bigtech
+3010150,2024-02-01,24937,Apple Inc.,"Apple Inc., Q1 2024 Earnings Call, Feb 01, 2024",,,AAPL,platform_bigtech
+3108090,2024-05-02,24937,Apple Inc.,"Apple Inc., Q2 2024 Earnings Call, May 02, 2024",,,AAPL,platform_bigtech
+3209490,2024-08-01,24937,Apple Inc.,"Apple Inc., Q3 2024 Earnings Call, Aug 01, 2024",,,AAPL,platform_bigtech
+3295872,2024-10-31,24937,Apple Inc.,"Apple Inc., Q4 2024 Earnings Call, Oct 31, 2024",,,AAPL,platform_bigtech
+2241429,2021-03-23,24321,Adobe Inc.,"Adobe Inc., Q1 2021 Earnings Call, Mar 23, 2021",,,ADBE,enterprise_software
+2323054,2021-06-17,24321,Adobe Inc.,"Adobe Inc., Q2 2021 Earnings Call, Jun 17, 2021",,,ADBE,enterprise_software
+2399875,2021-09-21,24321,Adobe Inc.,"Adobe Inc., Q3 2021 Earnings Call, Sep 21, 2021",,,ADBE,enterprise_software
+2477888,2021-12-16,24321,Adobe Inc.,"Adobe Inc., Q4 2021 Earnings Call, Dec 16, 2021",,,ADBE,enterprise_software
+2529052,2022-03-22,24321,Adobe Inc.,"Adobe Inc., Q1 2022 Earnings Call, Mar 22, 2022",,,ADBE,enterprise_software
+2590683,2022-06-16,24321,Adobe Inc.,"Adobe Inc., Q2 2022 Earnings Call, Jun 16, 2022",,,ADBE,enterprise_software
+2655421,2022-09-15,24321,Adobe Inc.,"Adobe Inc., Q3 2022 Earnings Call, Sep 15, 2022",,,ADBE,enterprise_software
+3000557,2022-12-15,24321,Adobe Inc.,"Adobe Inc., Q4 2022 Earnings Call, Dec 15, 2022",,,ADBE,enterprise_software
+2766091,2023-03-15,24321,Adobe Inc.,"Adobe Inc., Q1 2023 Earnings Call, Mar 15, 2023",,,ADBE,enterprise_software
+2839824,2023-06-15,24321,Adobe Inc.,"Adobe Inc., Q2 2023 Earnings Call, Jun 15, 2023",,,ADBE,enterprise_software
+2908576,2023-09-14,24321,Adobe Inc.,"Adobe Inc., Q3 2023 Earnings Call, Sep 14, 2023",,,ADBE,enterprise_software
+2981895,2023-12-13,24321,Adobe Inc.,"Adobe Inc., Q4 2023 Earnings Call, Dec 13, 2023",,,ADBE,enterprise_software
+3063100,2024-03-14,24321,Adobe Inc.,"Adobe Inc., Q1 2024 Earnings Call, Mar 14, 2024",,,ADBE,enterprise_software
+3160714,2024-06-13,24321,Adobe Inc.,"Adobe Inc., Q2 2024 Earnings Call, Jun 13, 2024",,,ADBE,enterprise_software
+3264172,2024-09-12,24321,Adobe Inc.,"Adobe Inc., Q3 2024 Earnings Call, Sep 12, 2024",,,ADBE,enterprise_software
+3339565,2024-12-11,24321,Adobe Inc.,"Adobe Inc., Q4 2024 Earnings Call, Dec 11, 2024",,,ADBE,enterprise_software
+2293022,2021-02-25,119902,"Autodesk, Inc.","Autodesk, Inc., Q4 2021 Earnings Call, Feb 25, 2021",,,ADSK,enterprise_software
+2303247,2021-05-27,119902,"Autodesk, Inc.","Autodesk, Inc., Q1 2022 Earnings Call, May 27, 2021",,,ADSK,enterprise_software
+2386180,2021-08-25,119902,"Autodesk, Inc.","Autodesk, Inc., Q2 2022 Earnings Call, Aug 25, 2021",,,ADSK,enterprise_software
+2447962,2021-11-23,119902,"Autodesk, Inc.","Autodesk, Inc., Q3 2022 Earnings Call, Nov 23, 2021",,,ADSK,enterprise_software
+2507004,2022-02-24,119902,"Autodesk, Inc.","Autodesk, Inc., Q4 2022 Earnings Call, Feb 24, 2022",,,ADSK,enterprise_software
+2581767,2022-05-26,119902,"Autodesk, Inc.","Autodesk, Inc., Q1 2023 Earnings Call, May 26, 2022",,,ADSK,enterprise_software
+2637719,2022-08-24,119902,"Autodesk, Inc.","Autodesk, Inc., Q2 2023 Earnings Call, Aug 24, 2022",,,ADSK,enterprise_software
+2696201,2022-11-22,119902,"Autodesk, Inc.","Autodesk, Inc., Q3 2023 Earnings Call, Nov 22, 2022",,,ADSK,enterprise_software
+2750418,2023-02-23,119902,"Autodesk, Inc.","Autodesk, Inc., Q4 2023 Earnings Call, Feb 23, 2023",,,ADSK,enterprise_software
+2821873,2023-05-25,119902,"Autodesk, Inc.","Autodesk, Inc., Q1 2024 Earnings Call, May 25, 2023",,,ADSK,enterprise_software
+2892866,2023-08-23,119902,"Autodesk, Inc.","Autodesk, Inc., Q2 2024 Earnings Call, Aug 23, 2023",,,ADSK,enterprise_software
+2963577,2023-11-21,119902,"Autodesk, Inc.","Autodesk, Inc., Q3 2024 Earnings Call, Nov 21, 2023",,,ADSK,enterprise_software
+3045923,2024-02-29,119902,"Autodesk, Inc.","Autodesk, Inc., Q4 2024 Earnings Call, Feb 29, 2024",,,ADSK,enterprise_software
+3157709,2024-06-11,119902,"Autodesk, Inc.","Autodesk, Inc., Q1 2025 Earnings Call, Jun 11, 2024",,,ADSK,enterprise_software
+3246826,2024-08-29,119902,"Autodesk, Inc.","Autodesk, Inc., Q2 2025 Earnings Call, Aug 29, 2024",,,ADSK,enterprise_software
+3319302,2024-11-26,119902,"Autodesk, Inc.","Autodesk, Inc., Q3 2025 Earnings Call, Nov 26, 2024",,,ADSK,enterprise_software
+2294642,2021-03-01,24249083,"C3.ai, Inc.","C3.ai, Inc., Q3 2021 Earnings Call, Mar 01, 2021",,,AI,ai_forward_saas
+2308505,2021-06-02,24249083,"C3.ai, Inc.","C3.ai, Inc., Q4 2021 Earnings Call, Jun 02, 2021",,,AI,ai_forward_saas
+2390671,2021-09-01,24249083,"C3.ai, Inc.","C3.ai, Inc., Q1 2022 Earnings Call, Sep 01, 2021",,,AI,ai_forward_saas
+2454026,2021-12-01,24249083,"C3.ai, Inc.","C3.ai, Inc., Q2 2022 Earnings Call, Dec 01, 2021",,,AI,ai_forward_saas
+2515042,2022-03-02,24249083,"C3.ai, Inc.","C3.ai, Inc., Q3 2022 Earnings Call, Mar 02, 2022",,,AI,ai_forward_saas
+2583564,2022-06-01,24249083,"C3.ai, Inc.","C3.ai, Inc., Q4 2022 Earnings Call, Jun 01, 2022",,,AI,ai_forward_saas
+2640498,2022-08-31,24249083,"C3.ai, Inc.","C3.ai, Inc., Q1 2023 Earnings Call, Aug 31, 2022",,,AI,ai_forward_saas
+2806416,2022-12-07,24249083,"C3.ai, Inc.","C3.ai, Inc., Q2 2023 Earnings Call, Dec 07, 2022",,,AI,ai_forward_saas
+2756820,2023-03-02,24249083,"C3.ai, Inc.","C3.ai, Inc., Q3 2023 Earnings Call, Mar 02, 2023",,,AI,ai_forward_saas
+2828979,2023-05-31,24249083,"C3.ai, Inc.","C3.ai, Inc., Q4 2023 Earnings Call, May 31, 2023",,,AI,ai_forward_saas
+2903935,2023-09-06,24249083,"C3.ai, Inc.","C3.ai, Inc., Q1 2024 Earnings Call, Sep 06, 2023",,,AI,ai_forward_saas
+2980917,2023-12-06,24249083,"C3.ai, Inc.","C3.ai, Inc., Q2 2024 Earnings Call, Dec 06, 2023",,,AI,ai_forward_saas
+3044052,2024-02-28,24249083,"C3.ai, Inc.","C3.ai, Inc., Q3 2024 Earnings Call, Feb 28, 2024",,,AI,ai_forward_saas
+3147723,2024-05-29,24249083,"C3.ai, Inc.","C3.ai, Inc., Q4 2024 Earnings Call, May 29, 2024",,,AI,ai_forward_saas
+3253432,2024-09-04,24249083,"C3.ai, Inc.","C3.ai, Inc., Q1 2025 Earnings Call, Sep 04, 2024",,,AI,ai_forward_saas
+3337151,2024-12-09,24249083,"C3.ai, Inc.","C3.ai, Inc., Q2 2025 Earnings Call, Dec 09, 2024",,,AI,ai_forward_saas
+2201209,2021-02-09,24522,"Akamai Technologies, Inc.","Akamai Technologies, Inc., Q4 2020 Earnings Call, Feb 09, 2021",,,AKAM,data_cloud_security
+2269354,2021-05-04,24522,"Akamai Technologies, Inc.","Akamai Technologies, Inc., Q1 2021 Earnings Call, May 04, 2021",,,AKAM,data_cloud_security
+2361489,2021-08-03,24522,"Akamai Technologies, Inc.","Akamai Technologies, Inc., Q2 2021 Earnings Call, Aug 03, 2021",,,AKAM,data_cloud_security
+2422276,2021-11-02,24522,"Akamai Technologies, Inc.","Akamai Technologies, Inc., Q3 2021 Earnings Call, Nov 02, 2021",,,AKAM,data_cloud_security
+2495061,2022-02-15,24522,"Akamai Technologies, Inc.","Akamai Technologies, Inc., Q4 2021 Earnings Call, Feb 15, 2022",,,AKAM,data_cloud_security
+2551912,2022-05-03,24522,"Akamai Technologies, Inc.","Akamai Technologies, Inc., Q1 2022 Earnings Call, May 03, 2022",,,AKAM,data_cloud_security
+2624745,2022-08-09,24522,"Akamai Technologies, Inc.","Akamai Technologies, Inc., Q2 2022 Earnings Call, Aug 09, 2022",,,AKAM,data_cloud_security
+2680079,2022-11-08,24522,"Akamai Technologies, Inc.","Akamai Technologies, Inc., Q3 2022 Earnings Call, Nov 08, 2022",,,AKAM,data_cloud_security
+2738306,2023-02-14,24522,"Akamai Technologies, Inc.","Akamai Technologies, Inc., Q4 2022 Earnings Call, Feb 14, 2023",,,AKAM,data_cloud_security
+2804317,2023-05-09,24522,"Akamai Technologies, Inc.","Akamai Technologies, Inc., Q1 2023 Earnings Call, May 09, 2023",,,AKAM,data_cloud_security
+2875830,2023-08-08,24522,"Akamai Technologies, Inc.","Akamai Technologies, Inc., Q2 2023 Earnings Call, Aug 08, 2023",,,AKAM,data_cloud_security
+2940849,2023-11-07,24522,"Akamai Technologies, Inc.","Akamai Technologies, Inc., Q3 2023 Earnings Call, Nov 07, 2023",,,AKAM,data_cloud_security
+3022517,2024-02-13,24522,"Akamai Technologies, Inc.","Akamai Technologies, Inc., Q4 2023 Earnings Call, Feb 13, 2024",,,AKAM,data_cloud_security
+3131324,2024-05-09,24522,"Akamai Technologies, Inc.","Akamai Technologies, Inc., Q1 2024 Earnings Call, May 09, 2024",,,AKAM,data_cloud_security
+3220531,2024-08-08,24522,"Akamai Technologies, Inc.","Akamai Technologies, Inc., Q2 2024 Earnings Call, Aug 08, 2024",,,AKAM,data_cloud_security
+3303151,2024-11-07,24522,"Akamai Technologies, Inc.","Akamai Technologies, Inc., Q3 2024 Earnings Call, Nov 07, 2024",,,AKAM,data_cloud_security
+2181802,2021-01-26,168864,"Advanced Micro Devices, Inc.","Advanced Micro Devices, Inc., Q4 2020 Earnings Call, Jan 26, 2021",,,AMD,semis_ai_infra
+2259888,2021-04-27,168864,"Advanced Micro Devices, Inc.","Advanced Micro Devices, Inc., Q1 2021 Earnings Call, Apr 27, 2021",,,AMD,semis_ai_infra
+2352127,2021-07-27,168864,"Advanced Micro Devices, Inc.","Advanced Micro Devices, Inc., Q2 2021 Earnings Call, Jul 27, 2021",,,AMD,semis_ai_infra
+2413301,2021-10-26,168864,"Advanced Micro Devices, Inc.","Advanced Micro Devices, Inc., Q3 2021 Earnings Call, Oct 26, 2021",,,AMD,semis_ai_infra
+2483841,2022-02-01,168864,"Advanced Micro Devices, Inc.","Advanced Micro Devices, Inc., Q4 2021 Earnings Call, Feb 01, 2022",,,AMD,semis_ai_infra
+2575036,2022-05-03,168864,"Advanced Micro Devices, Inc.","Advanced Micro Devices, Inc., Q1 2022 Earnings Call, May 03, 2022",,,AMD,semis_ai_infra
+2617159,2022-08-02,168864,"Advanced Micro Devices, Inc.","Advanced Micro Devices, Inc., Q2 2022 Earnings Call, Aug 02, 2022",,,AMD,semis_ai_infra
+2671032,2022-11-01,168864,"Advanced Micro Devices, Inc.","Advanced Micro Devices, Inc., Q3 2022 Earnings Call, Nov 01, 2022",,,AMD,semis_ai_infra
+2726208,2023-01-31,168864,"Advanced Micro Devices, Inc.","Advanced Micro Devices, Inc., Q4 2022 Earnings Call, Jan 31, 2023",,,AMD,semis_ai_infra
+2792045,2023-05-02,168864,"Advanced Micro Devices, Inc.","Advanced Micro Devices, Inc., Q1 2023 Earnings Call, May 02, 2023",,,AMD,semis_ai_infra
+2988208,2023-08-01,168864,"Advanced Micro Devices, Inc.","Advanced Micro Devices, Inc., Q2 2023 Earnings Call, Aug 01, 2023",,,AMD,semis_ai_infra
+3019841,2023-10-31,168864,"Advanced Micro Devices, Inc.","Advanced Micro Devices, Inc., Q3 2023 Earnings Call, Oct 31, 2023",,,AMD,semis_ai_infra
+3007457,2024-01-30,168864,"Advanced Micro Devices, Inc.","Advanced Micro Devices, Inc., Q4 2023 Earnings Call, Jan 30, 2024",,,AMD,semis_ai_infra
+3103589,2024-04-30,168864,"Advanced Micro Devices, Inc.","Advanced Micro Devices, Inc., Q1 2024 Earnings Call, Apr 30, 2024",,,AMD,semis_ai_infra
+3204698,2024-07-30,168864,"Advanced Micro Devices, Inc.","Advanced Micro Devices, Inc., Q2 2024 Earnings Call, Jul 30, 2024",,,AMD,semis_ai_infra
+3292699,2024-10-29,168864,"Advanced Micro Devices, Inc.","Advanced Micro Devices, Inc., Q3 2024 Earnings Call, Oct 29, 2024",,,AMD,semis_ai_infra
+2188888,2021-02-02,18749,"Amazon.com, Inc.","Amazon.com, Inc., Q4 2020 Earnings Call, Feb 02, 2021",,,AMZN,platform_bigtech
+2263781,2021-04-29,18749,"Amazon.com, Inc.","Amazon.com, Inc., Q1 2021 Earnings Call, Apr 29, 2021",,,AMZN,platform_bigtech
+2355528,2021-07-29,18749,"Amazon.com, Inc.","Amazon.com, Inc., Q2 2021 Earnings Call, Jul 29, 2021",,,AMZN,platform_bigtech
+2417223,2021-10-28,18749,"Amazon.com, Inc.","Amazon.com, Inc., Q3 2021 Earnings Call, Oct 28, 2021",,,AMZN,platform_bigtech
+2484864,2022-02-03,18749,"Amazon.com, Inc.","Amazon.com, Inc., Q4 2021 Earnings Call, Feb 03, 2022",,,AMZN,platform_bigtech
+2591535,2022-04-28,18749,"Amazon.com, Inc.","Amazon.com, Inc., Q1 2022 Earnings Call, Apr 28, 2022",,,AMZN,platform_bigtech
+2608370,2022-07-28,18749,"Amazon.com, Inc.","Amazon.com, Inc., Q2 2022 Earnings Call, Jul 28, 2022",,,AMZN,platform_bigtech
+2675071,2022-10-27,18749,"Amazon.com, Inc.","Amazon.com, Inc., Q3 2022 Earnings Call, Oct 27, 2022",,,AMZN,platform_bigtech
+2728235,2023-02-02,18749,"Amazon.com, Inc.","Amazon.com, Inc., Q4 2022 Earnings Call, Feb 02, 2023",,,AMZN,platform_bigtech
+2788795,2023-04-27,18749,"Amazon.com, Inc.","Amazon.com, Inc., Q1 2023 Earnings Call, Apr 27, 2023",,,AMZN,platform_bigtech
+3116747,2023-08-03,18749,"Amazon.com, Inc.","Amazon.com, Inc., Q2 2023 Earnings Call, Aug 03, 2023",,,AMZN,platform_bigtech
+2928180,2023-10-26,18749,"Amazon.com, Inc.","Amazon.com, Inc., Q3 2023 Earnings Call, Oct 26, 2023",,,AMZN,platform_bigtech
+3010128,2024-02-01,18749,"Amazon.com, Inc.","Amazon.com, Inc., Q4 2023 Earnings Call, Feb 01, 2024",,,AMZN,platform_bigtech
+3103621,2024-04-30,18749,"Amazon.com, Inc.","Amazon.com, Inc., Q1 2024 Earnings Call, Apr 30, 2024",,,AMZN,platform_bigtech
+3209437,2024-08-01,18749,"Amazon.com, Inc.","Amazon.com, Inc., Q2 2024 Earnings Call, Aug 01, 2024",,,AMZN,platform_bigtech
+3295910,2024-10-31,18749,"Amazon.com, Inc.","Amazon.com, Inc., Q3 2024 Earnings Call, Oct 31, 2024",,,AMZN,platform_bigtech
+2259594,2021-02-18,33348547,"Arista Networks, Inc.","Arista Networks, Inc., Q4 2020 Earnings Call, Feb 18, 2021",,,ANET,semis_ai_infra
+2269398,2021-05-04,33348547,"Arista Networks, Inc.","Arista Networks, Inc., Q1 2021 Earnings Call, May 04, 2021",,,ANET,semis_ai_infra
+2360146,2021-08-02,33348547,"Arista Networks, Inc.","Arista Networks, Inc., Q2 2021 Earnings Call, Aug 02, 2021",,,ANET,semis_ai_infra
+2420674,2021-11-01,33348547,"Arista Networks, Inc.","Arista Networks, Inc., Q3 2021 Earnings Call, Nov 01, 2021",,,ANET,semis_ai_infra
+2493703,2022-02-14,33348547,"Arista Networks, Inc.","Arista Networks, Inc., Q4 2021 Earnings Call, Feb 14, 2022",,,ANET,semis_ai_infra
+2550645,2022-05-02,33348547,"Arista Networks, Inc.","Arista Networks, Inc., Q1 2022 Earnings Call, May 02, 2022",,,ANET,semis_ai_infra
+3275382,2022-08-01,33348547,"Arista Networks, Inc.","Arista Networks, Inc., Q2 2022 Earnings Call, Aug 01, 2022",,,ANET,semis_ai_infra
+3079088,2022-10-31,33348547,"Arista Networks, Inc.","Arista Networks, Inc., Q3 2022 Earnings Call, Oct 31, 2022",,,ANET,semis_ai_infra
+2736516,2023-02-13,33348547,"Arista Networks, Inc.","Arista Networks, Inc., Q4 2022 Earnings Call, Feb 13, 2023",,,ANET,semis_ai_infra
+2790838,2023-05-01,33348547,"Arista Networks, Inc.","Arista Networks, Inc., Q1 2023 Earnings Call, May 01, 2023",,,ANET,semis_ai_infra
+2863470,2023-07-31,33348547,"Arista Networks, Inc.","Arista Networks, Inc., Q2 2023 Earnings Call, Jul 31, 2023",,,ANET,semis_ai_infra
+3023044,2023-10-30,33348547,"Arista Networks, Inc.","Arista Networks, Inc., Q3 2023 Earnings Call, Oct 30, 2023",,,ANET,semis_ai_infra
+3020241,2024-02-12,33348547,"Arista Networks, Inc.","Arista Networks, Inc., Q4 2023 Earnings Call, Feb 12, 2024",,,ANET,semis_ai_infra
+3113166,2024-05-07,33348547,"Arista Networks, Inc.","Arista Networks, Inc., Q1 2024 Earnings Call, May 07, 2024",,,ANET,semis_ai_infra
+3204784,2024-07-30,33348547,"Arista Networks, Inc.","Arista Networks, Inc., Q2 2024 Earnings Call, Jul 30, 2024",,,ANET,semis_ai_infra
+3305096,2024-11-07,33348547,"Arista Networks, Inc.","Arista Networks, Inc., Q3 2024 Earnings Call, Nov 07, 2024",,,ANET,semis_ai_infra
+2231189,2021-03-04,25016048,Broadcom Inc.,"Broadcom Inc., Q1 2021 Earnings Call, Mar 04, 2021",,,AVGO,semis_ai_infra
+2309609,2021-06-03,25016048,Broadcom Inc.,"Broadcom Inc., Q2 2021 Earnings Call, Jun 03, 2021",,,AVGO,semis_ai_infra
+2406144,2021-09-02,25016048,Broadcom Inc.,"Broadcom Inc., Q3 2021 Earnings Call, Sep 02, 2021",,,AVGO,semis_ai_infra
+2459553,2021-12-09,25016048,Broadcom Inc.,"Broadcom Inc., Q4 2021 Earnings Call, Dec 09, 2021",,,AVGO,semis_ai_infra
+2516505,2022-03-03,25016048,Broadcom Inc.,"Broadcom Inc., Q1 2022 Earnings Call, Mar 03, 2022",,,AVGO,semis_ai_infra
+2641211,2022-09-01,25016048,Broadcom Inc.,"Broadcom Inc., Q3 2022 Earnings Call, Sep 01, 2022",,,AVGO,semis_ai_infra
+2707723,2022-12-08,25016048,Broadcom Inc.,"Broadcom Inc., Q4 2022 Earnings Call, Dec 08, 2022",,,AVGO,semis_ai_infra
+2756785,2023-03-02,25016048,Broadcom Inc.,"Broadcom Inc., Q1 2023 Earnings Call, Mar 02, 2023",,,AVGO,semis_ai_infra
+2830226,2023-06-01,25016048,Broadcom Inc.,"Broadcom Inc., Q2 2023 Earnings Call, Jun 01, 2023",,,AVGO,semis_ai_infra
+2900450,2023-08-31,25016048,Broadcom Inc.,"Broadcom Inc., Q3 2023 Earnings Call, Aug 31, 2023",,,AVGO,semis_ai_infra
+3028746,2023-12-07,25016048,Broadcom Inc.,"Broadcom Inc., Q4 2023 Earnings Call, Dec 07, 2023",,,AVGO,semis_ai_infra
+3055770,2024-03-07,25016048,Broadcom Inc.,"Broadcom Inc., Q1 2024 Earnings Call, Mar 07, 2024",,,AVGO,semis_ai_infra
+3159212,2024-06-12,25016048,Broadcom Inc.,"Broadcom Inc., Q2 2024 Earnings Call, Jun 12, 2024",,,AVGO,semis_ai_infra
+3255474,2024-09-05,25016048,Broadcom Inc.,"Broadcom Inc., Q3 2024 Earnings Call, Sep 05, 2024",,,AVGO,semis_ai_infra
+3340996,2024-12-12,25016048,Broadcom Inc.,"Broadcom Inc., Q4 2024 Earnings Call, Dec 12, 2024",,,AVGO,semis_ai_infra
+2228853,2021-03-02,23245928,"Box, Inc.","Box, Inc., Q4 2021 Earnings Call, Mar 02, 2021",,,BOX,ai_forward_saas
+2303179,2021-05-27,23245928,"Box, Inc.","Box, Inc., Q1 2022 Earnings Call, May 27, 2021",,,BOX,ai_forward_saas
+2386133,2021-08-25,23245928,"Box, Inc.","Box, Inc., Q2 2022 Earnings Call, Aug 25, 2021",,,BOX,ai_forward_saas
+2453004,2021-11-30,23245928,"Box, Inc.","Box, Inc., Q3 2022 Earnings Call, Nov 30, 2021",,,BOX,ai_forward_saas
+2527983,2022-03-02,23245928,"Box, Inc.","Box, Inc., Q4 2022 Earnings Call, Mar 02, 2022",,,BOX,ai_forward_saas
+2579060,2022-05-25,23245928,"Box, Inc.","Box, Inc., Q1 2023 Earnings Call, May 25, 2022",,,BOX,ai_forward_saas
+2637621,2022-08-24,23245928,"Box, Inc.","Box, Inc., Q2 2023 Earnings Call, Aug 24, 2022",,,BOX,ai_forward_saas
+2700344,2022-11-30,23245928,"Box, Inc.","Box, Inc., Q3 2023 Earnings Call, Nov 30, 2022",,,BOX,ai_forward_saas
+2755687,2023-03-01,23245928,"Box, Inc.","Box, Inc., Q4 2023 Earnings Call, Mar 01, 2023",,,BOX,ai_forward_saas
+2827520,2023-05-30,23245928,"Box, Inc.","Box, Inc., Q1 2024 Earnings Call, May 30, 2023",,,BOX,ai_forward_saas
+2898952,2023-08-29,23245928,"Box, Inc.","Box, Inc., Q2 2024 Earnings Call, Aug 29, 2023",,,BOX,ai_forward_saas
+2976446,2023-12-05,23245928,"Box, Inc.","Box, Inc., Q3 2024 Earnings Call, Dec 05, 2023",,,BOX,ai_forward_saas
+3051910,2024-03-05,23245928,"Box, Inc.","Box, Inc., Q4 2024 Earnings Call, Mar 05, 2024",,,BOX,ai_forward_saas
+3145701,2024-05-28,23245928,"Box, Inc.","Box, Inc., Q1 2025 Earnings Call, May 28, 2024",,,BOX,ai_forward_saas
+3243285,2024-08-27,23245928,"Box, Inc.","Box, Inc., Q2 2025 Earnings Call, Aug 27, 2024",,,BOX,ai_forward_saas
+3329641,2024-12-03,23245928,"Box, Inc.","Box, Inc., Q3 2025 Earnings Call, Dec 03, 2024",,,BOX,ai_forward_saas
+2222252,2021-02-22,25941,"Cadence Design Systems, Inc.","Cadence Design Systems, Inc., Q4 2020 Earnings Call, Feb 22, 2021",,,CDNS,enterprise_software
+2258493,2021-04-26,25941,"Cadence Design Systems, Inc.","Cadence Design Systems, Inc., Q1 2021 Earnings Call, Apr 26, 2021",,,CDNS,enterprise_software
+2351094,2021-07-26,25941,"Cadence Design Systems, Inc.","Cadence Design Systems, Inc., Q2 2021 Earnings Call, Jul 26, 2021",,,CDNS,enterprise_software
+2443101,2021-10-25,25941,"Cadence Design Systems, Inc.","Cadence Design Systems, Inc., Q3 2021 Earnings Call, Oct 25, 2021",,,CDNS,enterprise_software
+2511954,2022-02-22,25941,"Cadence Design Systems, Inc.","Cadence Design Systems, Inc., Q4 2021 Earnings Call, Feb 22, 2022",,,CDNS,enterprise_software
+2542761,2022-04-25,25941,"Cadence Design Systems, Inc.","Cadence Design Systems, Inc., Q1 2022 Earnings Call, Apr 25, 2022",,,CDNS,enterprise_software
+2603774,2022-07-25,25941,"Cadence Design Systems, Inc.","Cadence Design Systems, Inc., Q2 2022 Earnings Call, Jul 25, 2022",,,CDNS,enterprise_software
+2661744,2022-10-24,25941,"Cadence Design Systems, Inc.","Cadence Design Systems, Inc., Q3 2022 Earnings Call, Oct 24, 2022",,,CDNS,enterprise_software
+2736619,2023-02-13,25941,"Cadence Design Systems, Inc.","Cadence Design Systems, Inc., Q4 2022 Earnings Call, Feb 13, 2023",,,CDNS,enterprise_software
+2784658,2023-04-24,25941,"Cadence Design Systems, Inc.","Cadence Design Systems, Inc., Q1 2023 Earnings Call, Apr 24, 2023",,,CDNS,enterprise_software
+2856789,2023-07-24,25941,"Cadence Design Systems, Inc.","Cadence Design Systems, Inc., Q2 2023 Earnings Call, Jul 24, 2023",,,CDNS,enterprise_software
+2924456,2023-10-23,25941,"Cadence Design Systems, Inc.","Cadence Design Systems, Inc., Q3 2023 Earnings Call, Oct 23, 2023",,,CDNS,enterprise_software
+3020349,2024-02-12,25941,"Cadence Design Systems, Inc.","Cadence Design Systems, Inc., Q4 2023 Earnings Call, Feb 12, 2024",,,CDNS,enterprise_software
+3092722,2024-04-22,25941,"Cadence Design Systems, Inc.","Cadence Design Systems, Inc., Q1 2024 Earnings Call, Apr 22, 2024",,,CDNS,enterprise_software
+3191893,2024-07-22,25941,"Cadence Design Systems, Inc.","Cadence Design Systems, Inc., Q2 2024 Earnings Call, Jul 22, 2024",,,CDNS,enterprise_software
+3291592,2024-10-28,25941,"Cadence Design Systems, Inc.","Cadence Design Systems, Inc., Q3 2024 Earnings Call, Oct 28, 2024",,,CDNS,enterprise_software
+2399951,2021-08-05,276431142,"Confluent, Inc.","Confluent, Inc., Q2 2021 Earnings Call, Aug 05, 2021",,,CFLT,data_cloud_security
+2426552,2021-11-04,276431142,"Confluent, Inc.","Confluent, Inc., Q3 2021 Earnings Call, Nov 04, 2021",,,CFLT,data_cloud_security
+2491280,2022-02-10,276431142,"Confluent, Inc.","Confluent, Inc., Q4 2021 Earnings Call, Feb 10, 2022",,,CFLT,data_cloud_security
+2555926,2022-05-05,276431142,"Confluent, Inc.","Confluent, Inc., Q1 2022 Earnings Call, May 05, 2022",,,CFLT,data_cloud_security
+2615201,2022-08-03,276431142,"Confluent, Inc.","Confluent, Inc., Q2 2022 Earnings Call, Aug 03, 2022",,,CFLT,data_cloud_security
+2672601,2022-11-02,276431142,"Confluent, Inc.","Confluent, Inc., Q3 2022 Earnings Call, Nov 02, 2022",,,CFLT,data_cloud_security
+2725398,2023-01-30,276431142,"Confluent, Inc.","Confluent, Inc., Q4 2022 Earnings Call, Jan 30, 2023",,,CFLT,data_cloud_security
+2861517,2023-05-03,276431142,"Confluent, Inc.","Confluent, Inc., Q1 2023 Earnings Call, May 03, 2023",,,CFLT,data_cloud_security
+2866733,2023-08-02,276431142,"Confluent, Inc.","Confluent, Inc., Q2 2023 Earnings Call, Aug 02, 2023",,,CFLT,data_cloud_security
+2933015,2023-11-01,276431142,"Confluent, Inc.","Confluent, Inc., Q3 2023 Earnings Call, Nov 01, 2023",,,CFLT,data_cloud_security
+3015219,2024-02-07,276431142,"Confluent, Inc.","Confluent, Inc., Q4 2023 Earnings Call, Feb 07, 2024",,,CFLT,data_cloud_security
+3113221,2024-05-07,276431142,"Confluent, Inc.","Confluent, Inc., Q1 2024 Earnings Call, May 07, 2024",,,CFLT,data_cloud_security
+3207142,2024-07-31,276431142,"Confluent, Inc.","Confluent, Inc., Q2 2024 Earnings Call, Jul 31, 2024",,,CFLT,data_cloud_security
+3294174,2024-10-30,276431142,"Confluent, Inc.","Confluent, Inc., Q3 2024 Earnings Call, Oct 30, 2024",,,CFLT,data_cloud_security
+2224539,2021-02-25,122917,"Salesforce, Inc.","salesforce.com, inc., Q4 2021 Earnings Call, Feb 25, 2021",,,CRM,enterprise_software
+2303296,2021-05-27,122917,"Salesforce, Inc.","salesforce.com, inc., Q1 2022 Earnings Call, May 27, 2021",,,CRM,enterprise_software
+2390205,2021-08-25,122917,"Salesforce, Inc.","salesforce.com, inc., Q2 2022 Earnings Call, Aug 25, 2021",,,CRM,enterprise_software
+2466892,2021-11-30,122917,"Salesforce, Inc.","salesforce.com, inc., Q3 2022 Earnings Call, Nov 30, 2021",,,CRM,enterprise_software
+2513627,2022-03-01,122917,"Salesforce, Inc.","salesforce.com, inc., Q4 2022 Earnings Call, Mar 01, 2022",,,CRM,enterprise_software
+2582570,2022-05-31,122917,"Salesforce, Inc.","Salesforce, Inc., Q1 2023 Earnings Call, May 31, 2022",,,CRM,enterprise_software
+2637675,2022-08-24,122917,"Salesforce, Inc.","Salesforce, Inc., Q2 2023 Earnings Call, Aug 24, 2022",,,CRM,enterprise_software
+2701173,2022-11-30,122917,"Salesforce, Inc.","Salesforce, Inc., Q3 2023 Earnings Call, Nov 30, 2022",,,CRM,enterprise_software
+2755341,2023-03-01,122917,"Salesforce, Inc.","Salesforce, Inc., 2023 Earnings Call, Mar 01, 2023",,,CRM,enterprise_software
+2829184,2023-05-31,122917,"Salesforce, Inc.","Salesforce, Inc., Q1 2024 Earnings Call, May 31, 2023",,,CRM,enterprise_software
+2899766,2023-08-30,122917,"Salesforce, Inc.","Salesforce, Inc., Q2 2024 Earnings Call, Aug 30, 2023",,,CRM,enterprise_software
+2978043,2023-11-29,122917,"Salesforce, Inc.","Salesforce, Inc., Q3 2024 Earnings Call, Nov 29, 2023",,,CRM,enterprise_software
+3272565,2024-02-28,122917,"Salesforce, Inc.","Salesforce, Inc., Q4 2024 Earnings Call, Feb 28, 2024",,,CRM,enterprise_software
+3259675,2024-05-29,122917,"Salesforce, Inc.","Salesforce, Inc., Q1 2025 Earnings Call, May 29, 2024",,,CRM,enterprise_software
+3252550,2024-08-28,122917,"Salesforce, Inc.","Salesforce, Inc., Q2 2025 Earnings Call, Aug 28, 2024",,,CRM,enterprise_software
+3338589,2024-12-03,122917,"Salesforce, Inc.","Salesforce, Inc., Q3 2025 Earnings Call, Dec 03, 2024",,,CRM,enterprise_software
+2238411,2021-03-16,420347413,"CrowdStrike Holdings, Inc.","CrowdStrike Holdings, Inc., Q4 2021 Earnings Call, Mar 16, 2021",,,CRWD,data_cloud_security
+2309674,2021-06-03,420347413,"CrowdStrike Holdings, Inc.","CrowdStrike Holdings, Inc., Q1 2022 Earnings Call, Jun 03, 2021",,,CRWD,data_cloud_security
+2390081,2021-08-31,420347413,"CrowdStrike Holdings, Inc.","CrowdStrike Holdings, Inc., Q2 2022 Earnings Call, Aug 31, 2021",,,CRWD,data_cloud_security
+2454030,2021-12-01,420347413,"CrowdStrike Holdings, Inc.","CrowdStrike Holdings, Inc., Q3 2022 Earnings Call, Dec 01, 2021",,,CRWD,data_cloud_security
+2521539,2022-03-09,420347413,"CrowdStrike Holdings, Inc.","CrowdStrike Holdings, Inc., Q4 2022 Earnings Call, Mar 09, 2022",,,CRWD,data_cloud_security
+2584229,2022-06-02,420347413,"CrowdStrike Holdings, Inc.","CrowdStrike Holdings, Inc., Q1 2023 Earnings Call, Jun 02, 2022",,,CRWD,data_cloud_security
+2639884,2022-08-30,420347413,"CrowdStrike Holdings, Inc.","CrowdStrike Holdings, Inc., Q2 2023 Earnings Call, Aug 30, 2022",,,CRWD,data_cloud_security
+2699414,2022-11-29,420347413,"CrowdStrike Holdings, Inc.","CrowdStrike Holdings, Inc., Q3 2023 Earnings Call, Nov 29, 2022",,,CRWD,data_cloud_security
+2759846,2023-03-07,420347413,"CrowdStrike Holdings, Inc.","CrowdStrike Holdings, Inc., Q4 2023 Earnings Call, Mar 07, 2023",,,CRWD,data_cloud_security
+2990440,2023-05-31,420347413,"CrowdStrike Holdings, Inc.","CrowdStrike Holdings, Inc., Q1 2024 Earnings Call, May 31, 2023",,,CRWD,data_cloud_security
+2899582,2023-08-30,420347413,"CrowdStrike Holdings, Inc.","CrowdStrike Holdings, Inc., Q2 2024 Earnings Call, Aug 30, 2023",,,CRWD,data_cloud_security
+2969031,2023-11-28,420347413,"CrowdStrike Holdings, Inc.","CrowdStrike Holdings, Inc., Q3 2024 Earnings Call, Nov 28, 2023",,,CRWD,data_cloud_security
+3208521,2024-03-05,420347413,"CrowdStrike Holdings, Inc.","CrowdStrike Holdings, Inc., Q4 2024 Earnings Call, Mar 05, 2024",,,CRWD,data_cloud_security
+3192747,2024-06-04,420347413,"CrowdStrike Holdings, Inc.","CrowdStrike Holdings, Inc., Q1 2025 Earnings Call, Jun 04, 2024",,,CRWD,data_cloud_security
+3267318,2024-08-28,420347413,"CrowdStrike Holdings, Inc.","CrowdStrike Holdings, Inc., Q2 2025 Earnings Call, Aug 28, 2024",,,CRWD,data_cloud_security
+3358531,2024-11-26,420347413,"CrowdStrike Holdings, Inc.","CrowdStrike Holdings, Inc., Q3 2025 Earnings Call, Nov 26, 2024",,,CRWD,data_cloud_security
+2236520,2021-02-11,134521275,"Datadog, Inc.","Datadog, Inc., Q4 2020 Earnings Call, Feb 11, 2021",,,DDOG,data_cloud_security
+2273995,2021-05-06,134521275,"Datadog, Inc.","Datadog, Inc., Q1 2021 Earnings Call, May 06, 2021",,,DDOG,data_cloud_security
+2364624,2021-08-05,134521275,"Datadog, Inc.","Datadog, Inc., Q2 2021 Earnings Call, Aug 05, 2021",,,DDOG,data_cloud_security
+2458368,2021-11-04,134521275,"Datadog, Inc.","Datadog, Inc., Q3 2021 Earnings Call, Nov 04, 2021",,,DDOG,data_cloud_security
+2514645,2022-02-10,134521275,"Datadog, Inc.","Datadog, Inc., Q4 2021 Earnings Call, Feb 10, 2022",,,DDOG,data_cloud_security
+2554436,2022-05-05,134521275,"Datadog, Inc.","Datadog, Inc., Q1 2022 Earnings Call, May 05, 2022",,,DDOG,data_cloud_security
+2615997,2022-08-04,134521275,"Datadog, Inc.","Datadog, Inc., Q2 2022 Earnings Call, Aug 04, 2022",,,DDOG,data_cloud_security
+2674054,2022-11-03,134521275,"Datadog, Inc.","Datadog, Inc., Q3 2022 Earnings Call, Nov 03, 2022",,,DDOG,data_cloud_security
+2739882,2023-02-16,134521275,"Datadog, Inc.","Datadog, Inc., Q4 2022 Earnings Call, Feb 16, 2023",,,DDOG,data_cloud_security
+2794236,2023-05-04,134521275,"Datadog, Inc.","Datadog, Inc., Q1 2023 Earnings Call, May 04, 2023",,,DDOG,data_cloud_security
+2880963,2023-08-08,134521275,"Datadog, Inc.","Datadog, Inc., Q2 2023 Earnings Call, Aug 08, 2023",,,DDOG,data_cloud_security
+2939544,2023-11-07,134521275,"Datadog, Inc.","Datadog, Inc., Q3 2023 Earnings Call, Nov 07, 2023",,,DDOG,data_cloud_security
+3021557,2024-02-13,134521275,"Datadog, Inc.","Datadog, Inc., Q4 2023 Earnings Call, Feb 13, 2024",,,DDOG,data_cloud_security
+3112289,2024-05-07,134521275,"Datadog, Inc.","Datadog, Inc., Q1 2024 Earnings Call, May 07, 2024",,,DDOG,data_cloud_security
+3219345,2024-08-08,134521275,"Datadog, Inc.","Datadog, Inc., Q2 2024 Earnings Call, Aug 08, 2024",,,DDOG,data_cloud_security
+3302009,2024-11-07,134521275,"Datadog, Inc.","Datadog, Inc., Q3 2024 Earnings Call, Nov 07, 2024",,,DDOG,data_cloud_security
+2236092,2021-03-11,9817309,"DocuSign, Inc.","DocuSign, Inc., Q4 2021 Earnings Call, Mar 11, 2021",,,DOCU,ai_forward_saas
+2368277,2021-06-03,9817309,"DocuSign, Inc.","DocuSign, Inc., Q1 2022 Earnings Call, Jun 03, 2021",,,DOCU,ai_forward_saas
+2391254,2021-09-02,9817309,"DocuSign, Inc.","DocuSign, Inc., Q2 2022 Earnings Call, Sep 02, 2021",,,DOCU,ai_forward_saas
+2454760,2021-12-02,9817309,"DocuSign, Inc.","DocuSign, Inc., Q3 2022 Earnings Call, Dec 02, 2021",,,DOCU,ai_forward_saas
+2522831,2022-03-10,9817309,"DocuSign, Inc.","DocuSign, Inc., Q4 2022 Earnings Call, Mar 10, 2022",,,DOCU,ai_forward_saas
+2587764,2022-06-09,9817309,"DocuSign, Inc.","DocuSign, Inc., Q1 2023 Earnings Call, Jun 09, 2022",,,DOCU,ai_forward_saas
+2644503,2022-09-08,9817309,"DocuSign, Inc.","DocuSign, Inc., Q2 2023 Earnings Call, Sep 08, 2022",,,DOCU,ai_forward_saas
+2707718,2022-12-08,9817309,"DocuSign, Inc.","DocuSign, Inc., Q3 2023 Earnings Call, Dec 08, 2022",,,DOCU,ai_forward_saas
+2762155,2023-03-09,9817309,"DocuSign, Inc.","DocuSign, Inc., Q4 2023 Earnings Call, Mar 09, 2023",,,DOCU,ai_forward_saas
+2834273,2023-06-08,9817309,"DocuSign, Inc.","DocuSign, Inc., Q1 2024 Earnings Call, Jun 08, 2023",,,DOCU,ai_forward_saas
+2905020,2023-09-07,9817309,"DocuSign, Inc.","DocuSign, Inc., Q2 2024 Earnings Call, Sep 07, 2023",,,DOCU,ai_forward_saas
+2979104,2023-12-07,9817309,"DocuSign, Inc.","DocuSign, Inc., Q3 2024 Earnings Call, Dec 07, 2023",,,DOCU,ai_forward_saas
+3055729,2024-03-07,9817309,"DocuSign, Inc.","DocuSign, Inc., Q4 2024 Earnings Call, Mar 07, 2024",,,DOCU,ai_forward_saas
+3154681,2024-06-06,9817309,"DocuSign, Inc.","DocuSign, Inc., Q1 2025 Earnings Call, Jun 06, 2024",,,DOCU,ai_forward_saas
+3255588,2024-09-05,9817309,"DocuSign, Inc.","DocuSign, Inc., Q2 2025 Earnings Call, Sep 05, 2024",,,DOCU,ai_forward_saas
+3333115,2024-12-05,9817309,"DocuSign, Inc.","DocuSign, Inc., Q3 2025 Earnings Call, Dec 05, 2024",,,DOCU,ai_forward_saas
+2190536,2021-02-03,27862,eBay Inc.,"eBay Inc., Q4 2020 Earnings Call, Feb 03, 2021",,,EBAY,platform_bigtech
+2262008,2021-04-28,27862,eBay Inc.,"eBay Inc., Q1 2021 Earnings Call, Apr 28, 2021",,,EBAY,platform_bigtech
+2374281,2021-08-11,27862,eBay Inc.,"eBay Inc., Q2 2021 Earnings Call, Aug 11, 2021",,,EBAY,platform_bigtech
+2414918,2021-10-27,27862,eBay Inc.,"eBay Inc., Q3 2021 Earnings Call, Oct 27, 2021",,,EBAY,platform_bigtech
+2504352,2022-02-23,27862,eBay Inc.,"eBay Inc., Q4 2021 Earnings Call, Feb 23, 2022",,,EBAY,platform_bigtech
+2553621,2022-05-04,27862,eBay Inc.,"eBay Inc., Q1 2022 Earnings Call, May 04, 2022",,,EBAY,platform_bigtech
+2614786,2022-08-03,27862,eBay Inc.,"eBay Inc., Q2 2022 Earnings Call, Aug 03, 2022",,,EBAY,platform_bigtech
+2672834,2022-11-02,27862,eBay Inc.,"eBay Inc., Q3 2022 Earnings Call, Nov 02, 2022",,,EBAY,platform_bigtech
+2748480,2023-02-22,27862,eBay Inc.,"eBay Inc., Q4 2022 Earnings Call, Feb 22, 2023",,,EBAY,platform_bigtech
+2787814,2023-04-26,27862,eBay Inc.,"eBay Inc., Q1 2023 Earnings Call, Apr 26, 2023",,,EBAY,platform_bigtech
+2859390,2023-07-26,27862,eBay Inc.,"eBay Inc., Q2 2023 Earnings Call, Jul 26, 2023",,,EBAY,platform_bigtech
+2941040,2023-11-07,27862,eBay Inc.,"eBay Inc., Q3 2023 Earnings Call, Nov 07, 2023",,,EBAY,platform_bigtech
+3041866,2024-02-27,27862,eBay Inc.,"eBay Inc., Q4 2023 Earnings Call, Feb 27, 2024",,,EBAY,platform_bigtech
+3105667,2024-05-01,27862,eBay Inc.,"eBay Inc., Q1 2024 Earnings Call, May 01, 2024",,,EBAY,platform_bigtech
+3207068,2024-07-31,27862,eBay Inc.,"eBay Inc., Q2 2024 Earnings Call, Jul 31, 2024",,,EBAY,platform_bigtech
+3295630,2024-10-30,27862,eBay Inc.,"eBay Inc., Q3 2024 Earnings Call, Oct 30, 2024",,,EBAY,platform_bigtech
+2279585,2021-02-24,224101504,Elastic N.V.,"Elastic N.V., Q3 2021 Earnings Call, Feb 24, 2021",,,ESTC,data_cloud_security
+2308384,2021-06-02,224101504,Elastic N.V.,"Elastic N.V., Q4 2021 Earnings Call, Jun 02, 2021",,,ESTC,data_cloud_security
+2386177,2021-08-25,224101504,Elastic N.V.,"Elastic N.V., Q1 2022 Earnings Call, Aug 25, 2021",,,ESTC,data_cloud_security
+2454037,2021-12-01,224101504,Elastic N.V.,"Elastic N.V., Q2 2022 Earnings Call, Dec 01, 2021",,,ESTC,data_cloud_security
+2520874,2022-03-03,224101504,Elastic N.V.,"Elastic N.V., Q3 2022 Earnings Call, Mar 03, 2022",,,ESTC,data_cloud_security
+2583439,2022-06-01,224101504,Elastic N.V.,"Elastic N.V., Q4 2022 Earnings Call, Jun 01, 2022",,,ESTC,data_cloud_security
+2641325,2022-08-25,224101504,Elastic N.V.,"Elastic N.V., Q1 2023 Earnings Call, Aug 25, 2022",,,ESTC,data_cloud_security
+2700452,2022-11-30,224101504,Elastic N.V.,"Elastic N.V., Q2 2023 Earnings Call, Nov 30, 2022",,,ESTC,data_cloud_security
+2756772,2023-03-02,224101504,Elastic N.V.,"Elastic N.V., Q3 2023 Earnings Call, Mar 02, 2023",,,ESTC,data_cloud_security
+2830175,2023-06-01,224101504,Elastic N.V.,"Elastic N.V., Q4 2023 Earnings Call, Jun 01, 2023",,,ESTC,data_cloud_security
+2900476,2023-08-31,224101504,Elastic N.V.,"Elastic N.V., Q1 2024 Earnings Call, Aug 31, 2023",,,ESTC,data_cloud_security
+3055246,2023-11-30,224101504,Elastic N.V.,"Elastic N.V., Q2 2024 Earnings Call, Nov 30, 2023",,,ESTC,data_cloud_security
+3046035,2024-02-29,224101504,Elastic N.V.,"Elastic N.V., Q3 2024 Earnings Call, Feb 29, 2024",,,ESTC,data_cloud_security
+3148635,2024-05-30,224101504,Elastic N.V.,"Elastic N.V., Q4 2024 Earnings Call, May 30, 2024",,,ESTC,data_cloud_security
+3250180,2024-08-29,224101504,Elastic N.V.,"Elastic N.V., Q1 2025 Earnings Call, Aug 29, 2024",,,ESTC,data_cloud_security
+3317119,2024-11-21,224101504,Elastic N.V.,"Elastic N.V., Q2 2025 Earnings Call, Nov 21, 2024",,,ESTC,data_cloud_security
+2188886,2021-02-02,29096,Alphabet Inc.,"Alphabet Inc., Q4 2020 Earnings Call, Feb 02, 2021",,,GOOGL,platform_bigtech
+2259900,2021-04-27,29096,Alphabet Inc.,"Alphabet Inc., Q1 2021 Earnings Call, Apr 27, 2021",,,GOOGL,platform_bigtech
+2352140,2021-07-27,29096,Alphabet Inc.,"Alphabet Inc., Q2 2021 Earnings Call, Jul 27, 2021",,,GOOGL,platform_bigtech
+2413377,2021-10-26,29096,Alphabet Inc.,"Alphabet Inc., Q3 2021 Earnings Call, Oct 26, 2021",,,GOOGL,platform_bigtech
+2482164,2022-02-01,29096,Alphabet Inc.,"Alphabet Inc., Q4 2021 Earnings Call, Feb 01, 2022",,,GOOGL,platform_bigtech
+2544065,2022-04-26,29096,Alphabet Inc.,"Alphabet Inc., Q1 2022 Earnings Call, Apr 26, 2022",,,GOOGL,platform_bigtech
+2604756,2022-07-26,29096,Alphabet Inc.,"Alphabet Inc., Q2 2022 Earnings Call, Jul 26, 2022",,,GOOGL,platform_bigtech
+2662846,2022-10-25,29096,Alphabet Inc.,"Alphabet Inc., Q3 2022 Earnings Call, Oct 25, 2022",,,GOOGL,platform_bigtech
+2730326,2023-02-02,29096,Alphabet Inc.,"Alphabet Inc., Q4 2022 Earnings Call, Feb 02, 2023",,,GOOGL,platform_bigtech
+2785595,2023-04-25,29096,Alphabet Inc.,"Alphabet Inc., Q1 2023 Earnings Call, Apr 25, 2023",,,GOOGL,platform_bigtech
+2888308,2023-07-25,29096,Alphabet Inc.,"Alphabet Inc., Q2 2023 Earnings Call, Jul 25, 2023",,,GOOGL,platform_bigtech
+2925176,2023-10-24,29096,Alphabet Inc.,"Alphabet Inc., Q3 2023 Earnings Call, Oct 24, 2023",,,GOOGL,platform_bigtech
+3007347,2024-01-30,29096,Alphabet Inc.,"Alphabet Inc., Q4 2023 Earnings Call, Jan 30, 2024",,,GOOGL,platform_bigtech
+3097833,2024-04-25,29096,Alphabet Inc.,"Alphabet Inc., Q1 2024 Earnings Call, Apr 25, 2024",,,GOOGL,platform_bigtech
+3193335,2024-07-23,29096,Alphabet Inc.,"Alphabet Inc., Q2 2024 Earnings Call, Jul 23, 2024",,,GOOGL,platform_bigtech
+3292702,2024-10-29,29096,Alphabet Inc.,"Alphabet Inc., Q3 2024 Earnings Call, Oct 29, 2024",,,GOOGL,platform_bigtech
+2207404,2021-02-11,27629813,"HubSpot, Inc.","HubSpot, Inc., Q4 2020 Earnings Call, Feb 11, 2021",,,HUBS,ai_forward_saas
+2271398,2021-05-05,27629813,"HubSpot, Inc.","HubSpot, Inc., Q1 2021 Earnings Call, May 05, 2021",,,HUBS,ai_forward_saas
+2363704,2021-08-04,27629813,"HubSpot, Inc.","HubSpot, Inc., Q2 2021 Earnings Call, Aug 04, 2021",,,HUBS,ai_forward_saas
+2424052,2021-11-03,27629813,"HubSpot, Inc.","HubSpot, Inc., Q3 2021 Earnings Call, Nov 03, 2021",,,HUBS,ai_forward_saas
+2491304,2022-02-10,27629813,"HubSpot, Inc.","HubSpot, Inc., Q4 2021 Earnings Call, Feb 10, 2022",,,HUBS,ai_forward_saas
+2555830,2022-05-05,27629813,"HubSpot, Inc.","HubSpot, Inc., Q1 2022 Earnings Call, May 05, 2022",,,HUBS,ai_forward_saas
+2617238,2022-08-04,27629813,"HubSpot, Inc.","HubSpot, Inc., Q2 2022 Earnings Call, Aug 04, 2022",,,HUBS,ai_forward_saas
+2672902,2022-11-02,27629813,"HubSpot, Inc.","HubSpot, Inc., Q3 2022 Earnings Call, Nov 02, 2022",,,HUBS,ai_forward_saas
+2740616,2023-02-16,27629813,"HubSpot, Inc.","HubSpot, Inc., Q4 2022 Earnings Call, Feb 16, 2023",,,HUBS,ai_forward_saas
+2793354,2023-05-03,27629813,"HubSpot, Inc.","HubSpot, Inc., Q1 2023 Earnings Call, May 03, 2023",,,HUBS,ai_forward_saas
+2866687,2023-08-02,27629813,"HubSpot, Inc.","HubSpot, Inc., Q2 2023 Earnings Call, Aug 02, 2023",,,HUBS,ai_forward_saas
+3067677,2023-11-08,27629813,"HubSpot, Inc.","HubSpot, Inc., Q3 2023 Earnings Call, Nov 08, 2023",,,HUBS,ai_forward_saas
+3024053,2024-02-14,27629813,"HubSpot, Inc.","HubSpot, Inc., Q4 2023 Earnings Call, Feb 14, 2024",,,HUBS,ai_forward_saas
+3115097,2024-05-08,27629813,"HubSpot, Inc.","HubSpot, Inc., Q1 2024 Earnings Call, May 08, 2024",,,HUBS,ai_forward_saas
+3217480,2024-08-07,27629813,"HubSpot, Inc.","HubSpot, Inc., Q2 2024 Earnings Call, Aug 07, 2024",,,HUBS,ai_forward_saas
+3300899,2024-11-06,27629813,"HubSpot, Inc.","HubSpot, Inc., Q3 2024 Earnings Call, Nov 06, 2024",,,HUBS,ai_forward_saas
+2178259,2021-01-21,21127,Intel Corporation,"Intel Corporation, Q4 2020 Earnings Call, Jan 21, 2021",,,INTC,semis_ai_infra
+2256000,2021-04-22,21127,Intel Corporation,"Intel Corporation, Q1 2021 Earnings Call, Apr 22, 2021",,,INTC,semis_ai_infra
+2350033,2021-07-22,21127,Intel Corporation,"Intel Corporation, Q2 2021 Earnings Call, Jul 22, 2021",,,INTC,semis_ai_infra
+2409518,2021-10-21,21127,Intel Corporation,"Intel Corporation, Q3 2021 Earnings Call, Oct 21, 2021",,,INTC,semis_ai_infra
+2478141,2022-01-26,21127,Intel Corporation,"Intel Corporation, Q4 2021 Earnings Call, Jan 26, 2022",,,INTC,semis_ai_infra
+2547679,2022-04-28,21127,Intel Corporation,"Intel Corporation, Q1 2022 Earnings Call, Apr 28, 2022",,,INTC,semis_ai_infra
+2608275,2022-07-28,21127,Intel Corporation,"Intel Corporation, Q2 2022 Earnings Call, Jul 28, 2022",,,INTC,semis_ai_infra
+2666610,2022-10-27,21127,Intel Corporation,"Intel Corporation, Q3 2022 Earnings Call, Oct 27, 2022",,,INTC,semis_ai_infra
+2723340,2023-01-26,21127,Intel Corporation,"Intel Corporation, Q4 2022 Earnings Call, Jan 26, 2023",,,INTC,semis_ai_infra
+2790038,2023-04-27,21127,Intel Corporation,"Intel Corporation, Q1 2023 Earnings Call, Apr 27, 2023",,,INTC,semis_ai_infra
+2861149,2023-07-27,21127,Intel Corporation,"Intel Corporation, Q2 2023 Earnings Call, Jul 27, 2023",,,INTC,semis_ai_infra
+2928154,2023-10-26,21127,Intel Corporation,"Intel Corporation, Q3 2023 Earnings Call, Oct 26, 2023",,,INTC,semis_ai_infra
+3004228,2024-01-25,21127,Intel Corporation,"Intel Corporation, Q4 2023 Earnings Call, Jan 25, 2024",,,INTC,semis_ai_infra
+3098069,2024-04-25,21127,Intel Corporation,"Intel Corporation, Q1 2024 Earnings Call, Apr 25, 2024",,,INTC,semis_ai_infra
+3209460,2024-08-01,21127,Intel Corporation,"Intel Corporation, Q2 2024 Earnings Call, Aug 01, 2024",,,INTC,semis_ai_infra
+3295946,2024-10-31,21127,Intel Corporation,"Intel Corporation, Q3 2024 Earnings Call, Oct 31, 2024",,,INTC,semis_ai_infra
+2220036,2021-02-23,21171,Intuit Inc.,"Intuit Inc., Q2 2021 Earnings Call, Feb 23, 2021",,,INTU,enterprise_software
+2299539,2021-05-25,21171,Intuit Inc.,"Intuit Inc., Q3 2021 Earnings Call, May 25, 2021",,,INTU,enterprise_software
+2385287,2021-08-24,21171,Intuit Inc.,"Intuit Inc., Q4 2021 Earnings Call, Aug 24, 2021",,,INTU,enterprise_software
+2444880,2021-11-18,21171,Intuit Inc.,"Intuit Inc., Q1 2022 Earnings Call, Nov 18, 2021",,,INTU,enterprise_software
+2507082,2022-02-24,21171,Intuit Inc.,"Intuit Inc., Q2 2022 Earnings Call, Feb 24, 2022",,,INTU,enterprise_software
+2577945,2022-05-24,21171,Intuit Inc.,"Intuit Inc., Q3 2022 Earnings Call, May 24, 2022",,,INTU,enterprise_software
+2636556,2022-08-23,21171,Intuit Inc.,"Intuit Inc., Q4 2022 Earnings Call, Aug 23, 2022",,,INTU,enterprise_software
+2751986,2022-11-29,21171,Intuit Inc.,"Intuit Inc., Q1 2023 Earnings Call, Nov 29, 2022",,,INTU,enterprise_software
+2750228,2023-02-23,21171,Intuit Inc.,"Intuit Inc., Q2 2023 Earnings Call, Feb 23, 2023",,,INTU,enterprise_software
+2819309,2023-05-23,21171,Intuit Inc.,"Intuit Inc., Q3 2023 Earnings Call, May 23, 2023",,,INTU,enterprise_software
+2892741,2023-08-24,21171,Intuit Inc.,"Intuit Inc., Q4 2023 Earnings Call, Aug 24, 2023",,,INTU,enterprise_software
+2969059,2023-11-28,21171,Intuit Inc.,"Intuit Inc., Q1 2024 Earnings Call, Nov 28, 2023",,,INTU,enterprise_software
+3034922,2024-02-22,21171,Intuit Inc.,"Intuit Inc., Q2 2024 Earnings Call, Feb 22, 2024",,,INTU,enterprise_software
+3140693,2024-05-23,21171,Intuit Inc.,"Intuit Inc., Q3 2024 Earnings Call, May 23, 2024",,,INTU,enterprise_software
+3250053,2024-08-22,21171,Intuit Inc.,"Intuit Inc., Q4 2024 Earnings Call, Aug 22, 2024",,,INTU,enterprise_software
+3317206,2024-11-21,21171,Intuit Inc.,"Intuit Inc., Q1 2025 Earnings Call, Nov 21, 2024",,,INTU,enterprise_software
+2233550,2021-03-09,46952162,"MongoDB, Inc.","MongoDB, Inc., Q4 2021 Earnings Call, Mar 09, 2021",,,MDB,data_cloud_security
+2309754,2021-06-03,46952162,"MongoDB, Inc.","MongoDB, Inc., Q1 2022 Earnings Call, Jun 03, 2021",,,MDB,data_cloud_security
+2391259,2021-09-02,46952162,"MongoDB, Inc.","MongoDB, Inc., Q2 2022 Earnings Call, Sep 02, 2021",,,MDB,data_cloud_security
+2455854,2021-12-06,46952162,"MongoDB, Inc.","MongoDB, Inc., Q3 2022 Earnings Call, Dec 06, 2021",,,MDB,data_cloud_security
+2533010,2022-03-08,46952162,"MongoDB, Inc.","MongoDB, Inc., Q4 2022 Earnings Call, Mar 08, 2022",,,MDB,data_cloud_security
+2583418,2022-06-01,46952162,"MongoDB, Inc.","MongoDB, Inc., Q1 2023 Earnings Call, Jun 01, 2022",,,MDB,data_cloud_security
+2640516,2022-08-31,46952162,"MongoDB, Inc.","MongoDB, Inc., Q2 2023 Earnings Call, Aug 31, 2022",,,MDB,data_cloud_security
+2703928,2022-12-06,46952162,"MongoDB, Inc.","MongoDB, Inc., Q3 2023 Earnings Call, Dec 06, 2022",,,MDB,data_cloud_security
+2761027,2023-03-08,46952162,"MongoDB, Inc.","MongoDB, Inc., Q4 2023 Earnings Call, Mar 08, 2023",,,MDB,data_cloud_security
+2830241,2023-06-01,46952162,"MongoDB, Inc.","MongoDB, Inc., Q1 2024 Earnings Call, Jun 01, 2023",,,MDB,data_cloud_security
+2900449,2023-08-31,46952162,"MongoDB, Inc.","MongoDB, Inc., Q2 2024 Earnings Call, Aug 31, 2023",,,MDB,data_cloud_security
+2976683,2023-12-05,46952162,"MongoDB, Inc.","MongoDB, Inc., Q3 2024 Earnings Call, Dec 05, 2023",,,MDB,data_cloud_security
+3055760,2024-03-07,46952162,"MongoDB, Inc.","MongoDB, Inc., Q4 2024 Earnings Call, Mar 07, 2024",,,MDB,data_cloud_security
+3148698,2024-05-30,46952162,"MongoDB, Inc.","MongoDB, Inc., Q1 2025 Earnings Call, May 30, 2024",,,MDB,data_cloud_security
+3246772,2024-08-29,46952162,"MongoDB, Inc.","MongoDB, Inc., Q2 2025 Earnings Call, Aug 29, 2024",,,MDB,data_cloud_security
+3337185,2024-12-09,46952162,"MongoDB, Inc.","MongoDB, Inc., Q3 2025 Earnings Call, Dec 09, 2024",,,MDB,data_cloud_security
+2183203,2021-01-27,20765463,"Meta Platforms, Inc.","Facebook, Inc., Q4 2020 Earnings Call, Jan 27, 2021",,,META,platform_bigtech
+2261676,2021-04-28,20765463,"Meta Platforms, Inc.","Facebook, Inc., Q1 2021 Earnings Call, Apr 28, 2021",,,META,platform_bigtech
+2353513,2021-07-28,20765463,"Meta Platforms, Inc.","Facebook, Inc., Q2 2021 Earnings Call, Jul 28, 2021",,,META,platform_bigtech
+2412097,2021-10-25,20765463,"Meta Platforms, Inc.","Facebook, Inc., Q3 2021 Earnings Call, Oct 25, 2021",,,META,platform_bigtech
+2483671,2022-02-02,20765463,"Meta Platforms, Inc.","Meta Platforms, Inc., Q4 2021 Earnings Call, Feb 02, 2022",,,META,platform_bigtech
+2545541,2022-04-27,20765463,"Meta Platforms, Inc.","Meta Platforms, Inc., Q1 2022 Earnings Call, Apr 27, 2022",,,META,platform_bigtech
+2606174,2022-07-27,20765463,"Meta Platforms, Inc.","Meta Platforms, Inc., Q2 2022 Earnings Call, Jul 27, 2022",,,META,platform_bigtech
+2664395,2022-10-26,20765463,"Meta Platforms, Inc.","Meta Platforms, Inc., Q3 2022 Earnings Call, Oct 26, 2022",,,META,platform_bigtech
+2726894,2023-02-01,20765463,"Meta Platforms, Inc.","Meta Platforms, Inc., Q4 2022 Earnings Call, Feb 01, 2023",,,META,platform_bigtech
+2787025,2023-04-26,20765463,"Meta Platforms, Inc.","Meta Platforms, Inc., Q1 2023 Earnings Call, Apr 26, 2023",,,META,platform_bigtech
+2883670,2023-07-26,20765463,"Meta Platforms, Inc.","Meta Platforms, Inc., Q2 2023 Earnings Call, Jul 26, 2023",,,META,platform_bigtech
+2959910,2023-10-25,20765463,"Meta Platforms, Inc.","Meta Platforms, Inc., Q3 2023 Earnings Call, Oct 25, 2023",,,META,platform_bigtech
+3039107,2024-02-01,20765463,"Meta Platforms, Inc.","Meta Platforms, Inc., Q4 2023 Earnings Call, Feb 01, 2024",,,META,platform_bigtech
+3124558,2024-04-24,20765463,"Meta Platforms, Inc.","Meta Platforms, Inc., Q1 2024 Earnings Call, Apr 24, 2024",,,META,platform_bigtech
+3206992,2024-07-31,20765463,"Meta Platforms, Inc.","Meta Platforms, Inc., Q2 2024 Earnings Call, Jul 31, 2024",,,META,platform_bigtech
+3294248,2024-10-30,20765463,"Meta Platforms, Inc.","Meta Platforms, Inc., Q3 2024 Earnings Call, Oct 30, 2024",,,META,platform_bigtech
+2229961,2021-03-03,31158,"Marvell Technology, Inc.","Marvell Technology Group Ltd., Q4 2021 Earnings Call, Mar 03, 2021",,,MRVL,semis_ai_infra
+2311842,2021-06-07,31158,"Marvell Technology, Inc.","Marvell Technology Group Ltd., Q1 2022 Earnings Call, Jun 07, 2021",,,MRVL,semis_ai_infra
+2387242,2021-08-26,31158,"Marvell Technology, Inc.","Marvell Technology, Inc., Q2 2022 Earnings Call, Aug 26, 2021",,,MRVL,semis_ai_infra
+2454768,2021-12-02,31158,"Marvell Technology, Inc.","Marvell Technology, Inc., Q3 2022 Earnings Call, Dec 02, 2021",,,MRVL,semis_ai_infra
+2516414,2022-03-03,31158,"Marvell Technology, Inc.","Marvell Technology, Inc., Q4 2022 Earnings Call, Mar 03, 2022",,,MRVL,semis_ai_infra
+2580150,2022-05-26,31158,"Marvell Technology, Inc.","Marvell Technology, Inc., Q1 2023 Earnings Call, May 26, 2022",,,MRVL,semis_ai_infra
+2638519,2022-08-25,31158,"Marvell Technology, Inc.","Marvell Technology, Inc., Q2 2023 Earnings Call, Aug 25, 2022",,,MRVL,semis_ai_infra
+2701425,2022-12-01,31158,"Marvell Technology, Inc.","Marvell Technology, Inc., Q3 2023 Earnings Call, Dec 01, 2022",,,MRVL,semis_ai_infra
+2756771,2023-03-02,31158,"Marvell Technology, Inc.","Marvell Technology, Inc., Q4 2023 Earnings Call, Mar 02, 2023",,,MRVL,semis_ai_infra
+2826676,2023-05-25,31158,"Marvell Technology, Inc.","Marvell Technology, Inc., Q1 2024 Earnings Call, May 25, 2023",,,MRVL,semis_ai_infra
+2892737,2023-08-24,31158,"Marvell Technology, Inc.","Marvell Technology, Inc., Q2 2024 Earnings Call, Aug 24, 2023",,,MRVL,semis_ai_infra
+2972274,2023-11-30,31158,"Marvell Technology, Inc.","Marvell Technology, Inc., Q3 2024 Earnings Call, Nov 30, 2023",,,MRVL,semis_ai_infra
+3055613,2024-03-07,31158,"Marvell Technology, Inc.","Marvell Technology, Inc., Q4 2024 Earnings Call, Mar 07, 2024",,,MRVL,semis_ai_infra
+3278759,2024-05-30,31158,"Marvell Technology, Inc.","Marvell Technology, Inc., Q1 2025 Earnings Call, May 30, 2024",,,MRVL,semis_ai_infra
+3246719,2024-08-29,31158,"Marvell Technology, Inc.","Marvell Technology, Inc., Q2 2025 Earnings Call, Aug 29, 2024",,,MRVL,semis_ai_infra
+3329685,2024-12-03,31158,"Marvell Technology, Inc.","Marvell Technology, Inc., Q3 2025 Earnings Call, Dec 03, 2024",,,MRVL,semis_ai_infra
+2251465,2021-01-26,21835,Microsoft Corporation,"Microsoft Corporation, Q2 2021 Earnings Call, Jan 26, 2021",,,MSFT,platform_bigtech
+2259950,2021-04-27,21835,Microsoft Corporation,"Microsoft Corporation, Q3 2021 Earnings Call, Apr 27, 2021",,,MSFT,platform_bigtech
+2357429,2021-07-27,21835,Microsoft Corporation,"Microsoft Corporation, Q4 2021 Earnings Call, Jul 27, 2021",,,MSFT,platform_bigtech
+2444512,2021-10-26,21835,Microsoft Corporation,"Microsoft Corporation, Q1 2022 Earnings Call, Oct 26, 2021",,,MSFT,platform_bigtech
+2477196,2022-01-25,21835,Microsoft Corporation,"Microsoft Corporation, Q2 2022 Earnings Call, Jan 25, 2022",,,MSFT,platform_bigtech
+2547643,2022-04-26,21835,Microsoft Corporation,"Microsoft Corporation, Q3 2022 Earnings Call, Apr 26, 2022",,,MSFT,platform_bigtech
+2604788,2022-07-26,21835,Microsoft Corporation,"Microsoft Corporation, Q4 2022 Earnings Call, Jul 26, 2022",,,MSFT,platform_bigtech
+2662840,2022-10-25,21835,Microsoft Corporation,"Microsoft Corporation, Q1 2023 Earnings Call, Oct 25, 2022",,,MSFT,platform_bigtech
+2725838,2023-01-24,21835,Microsoft Corporation,"Microsoft Corporation, Q2 2023 Earnings Call, Jan 24, 2023",,,MSFT,platform_bigtech
+2785489,2023-04-25,21835,Microsoft Corporation,"Microsoft Corporation, Q3 2023 Earnings Call, Apr 25, 2023",,,MSFT,platform_bigtech
+2858255,2023-07-25,21835,Microsoft Corporation,"Microsoft Corporation, Q4 2023 Earnings Call, Jul 25, 2023",,,MSFT,platform_bigtech
+2925229,2023-10-24,21835,Microsoft Corporation,"Microsoft Corporation, Q1 2024 Earnings Call, Oct 24, 2023",,,MSFT,platform_bigtech
+3007395,2024-01-30,21835,Microsoft Corporation,"Microsoft Corporation, Q2 2024 Earnings Call, Jan 30, 2024",,,MSFT,platform_bigtech
+3097988,2024-04-25,21835,Microsoft Corporation,"Microsoft Corporation, Q3 2024 Earnings Call, Apr 25, 2024",,,MSFT,platform_bigtech
+3204813,2024-07-30,21835,Microsoft Corporation,"Microsoft Corporation, Q4 2024 Earnings Call, Jul 30, 2024",,,MSFT,platform_bigtech
+3297386,2024-10-30,21835,Microsoft Corporation,"Microsoft Corporation, Q1 2025 Earnings Call, Oct 30, 2024",,,MSFT,platform_bigtech
+2232450,2021-01-07,289030,"Micron Technology, Inc.","Micron Technology, Inc., Q1 2021 Earnings Call, Jan 07, 2021",,,MU,semis_ai_infra
+2245629,2021-03-31,289030,"Micron Technology, Inc.","Micron Technology, Inc., Q2 2021 Earnings Call, Mar 31, 2021",,,MU,semis_ai_infra
+2594418,2021-06-30,289030,"Micron Technology, Inc.","Micron Technology, Inc., Q3 2021 Earnings Call, Jun 30, 2021",,,MU,semis_ai_infra
+2594398,2021-09-28,289030,"Micron Technology, Inc.","Micron Technology, Inc., Q4 2021 Earnings Call, Sep 28, 2021",,,MU,semis_ai_infra
+2594411,2021-12-20,289030,"Micron Technology, Inc.","Micron Technology, Inc., Q1 2022 Earnings Call, Dec 20, 2021",,,MU,semis_ai_infra
+2594399,2022-03-29,289030,"Micron Technology, Inc.","Micron Technology, Inc., Q2 2022 Earnings Call, Mar 29, 2022",,,MU,semis_ai_infra
+2594741,2022-06-30,289030,"Micron Technology, Inc.","Micron Technology, Inc., Q3 2022 Earnings Call, Jun 30, 2022",,,MU,semis_ai_infra
+2659338,2022-09-29,289030,"Micron Technology, Inc.","Micron Technology, Inc., Q4 2022 Earnings Call, Sep 29, 2022",,,MU,semis_ai_infra
+2713313,2022-12-21,289030,"Micron Technology, Inc.","Micron Technology, Inc., Q1 2023 Earnings Call, Dec 21, 2022",,,MU,semis_ai_infra
+2773842,2023-03-28,289030,"Micron Technology, Inc.","Micron Technology, Inc., Q2 2023 Earnings Call, Mar 28, 2023",,,MU,semis_ai_infra
+2844524,2023-06-28,289030,"Micron Technology, Inc.","Micron Technology, Inc., Q3 2023 Earnings Call, Jun 28, 2023",,,MU,semis_ai_infra
+2912876,2023-09-27,289030,"Micron Technology, Inc.","Micron Technology, Inc., Q4 2023 Earnings Call, Sep 27, 2023",,,MU,semis_ai_infra
+3027289,2023-12-20,289030,"Micron Technology, Inc.","Micron Technology, Inc., Q1 2024 Earnings Call, Dec 20, 2023",,,MU,semis_ai_infra
+3066379,2024-03-20,289030,"Micron Technology, Inc.","Micron Technology, Inc., Q2 2024 Earnings Call, Mar 20, 2024",,,MU,semis_ai_infra
+3170968,2024-06-26,289030,"Micron Technology, Inc.","Micron Technology, Inc., Q3 2024 Earnings Call, Jun 26, 2024",,,MU,semis_ai_infra
+3274570,2024-09-25,289030,"Micron Technology, Inc.","Micron Technology, Inc., Q4 2024 Earnings Call, Sep 25, 2024",,,MU,semis_ai_infra
+3349906,2024-12-18,289030,"Micron Technology, Inc.","Micron Technology, Inc., Q1 2025 Earnings Call, Dec 18, 2024",,,MU,semis_ai_infra
+2249421,2021-02-11,81851700,"Cloudflare, Inc.","Cloudflare, Inc., Q4 2020 Earnings Call, Feb 11, 2021",,,NET,data_cloud_security
+2305712,2021-05-06,81851700,"Cloudflare, Inc.","Cloudflare, Inc., Q1 2021 Earnings Call, May 06, 2021",,,NET,data_cloud_security
+2366223,2021-08-05,81851700,"Cloudflare, Inc.","Cloudflare, Inc., Q2 2021 Earnings Call, Aug 05, 2021",,,NET,data_cloud_security
+2426504,2021-11-04,81851700,"Cloudflare, Inc.","Cloudflare, Inc., Q3 2021 Earnings Call, Nov 04, 2021",,,NET,data_cloud_security
+2491305,2022-02-10,81851700,"Cloudflare, Inc.","Cloudflare, Inc., Q4 2021 Earnings Call, Feb 10, 2022",,,NET,data_cloud_security
+2590878,2022-05-05,81851700,"Cloudflare, Inc.","Cloudflare, Inc., Q1 2022 Earnings Call, May 05, 2022",,,NET,data_cloud_security
+2619807,2022-08-04,81851700,"Cloudflare, Inc.","Cloudflare, Inc., Q2 2022 Earnings Call, Aug 04, 2022",,,NET,data_cloud_security
+2675134,2022-11-03,81851700,"Cloudflare, Inc.","Cloudflare, Inc., Q3 2022 Earnings Call, Nov 03, 2022",,,NET,data_cloud_security
+2734143,2023-02-09,81851700,"Cloudflare, Inc.","Cloudflare, Inc., Q4 2022 Earnings Call, Feb 09, 2023",,,NET,data_cloud_security
+2789994,2023-04-27,81851700,"Cloudflare, Inc.","Cloudflare, Inc., Q1 2023 Earnings Call, Apr 27, 2023",,,NET,data_cloud_security
+2870219,2023-08-03,81851700,"Cloudflare, Inc.","Cloudflare, Inc., Q2 2023 Earnings Call, Aug 03, 2023",,,NET,data_cloud_security
+2935314,2023-11-02,81851700,"Cloudflare, Inc.","Cloudflare, Inc., Q3 2023 Earnings Call, Nov 02, 2023",,,NET,data_cloud_security
+3017285,2024-02-08,81851700,"Cloudflare, Inc.","Cloudflare, Inc., Q4 2023 Earnings Call, Feb 08, 2024",,,NET,data_cloud_security
+3108218,2024-05-02,81851700,"Cloudflare, Inc.","Cloudflare, Inc., Q1 2024 Earnings Call, May 02, 2024",,,NET,data_cloud_security
+3209281,2024-08-01,81851700,"Cloudflare, Inc.","Cloudflare, Inc., Q2 2024 Earnings Call, Aug 01, 2024",,,NET,data_cloud_security
+3303408,2024-11-07,81851700,"Cloudflare, Inc.","Cloudflare, Inc., Q3 2024 Earnings Call, Nov 07, 2024",,,NET,data_cloud_security
+2234474,2021-01-19,32012,"Netflix, Inc.","Netflix, Inc., Q4 2020 Earnings Call, Jan 19, 2021",,,NFLX,platform_bigtech
+3084020,2021-04-20,32012,"Netflix, Inc.","Netflix, Inc., Q1 2021 Earnings Call, Apr 20, 2021",,,NFLX,platform_bigtech
+2348345,2021-07-20,32012,"Netflix, Inc.","Netflix, Inc., Q2 2021 Pre Recorded Earnings Call, Jul 20, 2021",,,NFLX,platform_bigtech
+2407739,2021-10-19,32012,"Netflix, Inc.","Netflix, Inc., Q3 2021 Earnings Call, Oct 19, 2021",,,NFLX,platform_bigtech
+2475437,2022-01-20,32012,"Netflix, Inc.","Netflix, Inc., Q4 2021 Pre Recorded Earnings Call, Jan 20, 2022",,,NFLX,platform_bigtech
+2540001,2022-04-19,32012,"Netflix, Inc.","Netflix, Inc., Q1 2022 Pre Recorded Earnings Call, Apr 19, 2022",,,NFLX,platform_bigtech
+2603772,2022-07-19,32012,"Netflix, Inc.","Netflix, Inc., Q2 2022 Earnings Call, Jul 19, 2022",,,NFLX,platform_bigtech
+2658578,2022-10-18,32012,"Netflix, Inc.","Netflix, Inc., Q3 2022 Earnings Call, Oct 18, 2022",,,NFLX,platform_bigtech
+2719766,2023-01-19,32012,"Netflix, Inc.","Netflix, Inc., Q4 2022 Earnings Call, Jan 19, 2023",,,NFLX,platform_bigtech
+2781485,2023-04-18,32012,"Netflix, Inc.","Netflix, Inc., Q1 2023 Pre Recorded Earnings Call, Apr 18, 2023",,,NFLX,platform_bigtech
+2900474,2023-07-19,32012,"Netflix, Inc.","Netflix, Inc., Q2 2023 Earnings Call, Jul 19, 2023",,,NFLX,platform_bigtech
+2921894,2023-10-18,32012,"Netflix, Inc.","Netflix, Inc., Q3 2023 Earnings Call, Oct 18, 2023",,,NFLX,platform_bigtech
+3002168,2024-01-23,32012,"Netflix, Inc.","Netflix, Inc., Q4 2023 Earnings Call, Jan 23, 2024",,,NFLX,platform_bigtech
+3088659,2024-04-18,32012,"Netflix, Inc.","Netflix, Inc., Q1 2024 Earnings Call, Apr 18, 2024",,,NFLX,platform_bigtech
+3189910,2024-07-18,32012,"Netflix, Inc.","Netflix, Inc., Q2 2024 Earnings Call, Jul 18, 2024",,,NFLX,platform_bigtech
+3285294,2024-10-17,32012,"Netflix, Inc.","Netflix, Inc., Q3 2024 Earnings Call, Oct 17, 2024",,,NFLX,platform_bigtech
+2183330,2021-01-27,22967487,"ServiceNow, Inc.","ServiceNow, Inc., Q4 2020 Earnings Call, Jan 27, 2021",,,NOW,enterprise_software
+2261854,2021-04-28,22967487,"ServiceNow, Inc.","ServiceNow, Inc., Q1 2021 Earnings Call, Apr 28, 2021",,,NOW,enterprise_software
+2389856,2021-07-28,22967487,"ServiceNow, Inc.","ServiceNow, Inc., Q2 2021 Earnings Call, Jul 28, 2021",,,NOW,enterprise_software
+2414958,2021-10-27,22967487,"ServiceNow, Inc.","ServiceNow, Inc., Q3 2021 Earnings Call, Oct 27, 2021",,,NOW,enterprise_software
+2478116,2022-01-26,22967487,"ServiceNow, Inc.","ServiceNow, Inc., Q4 2021 Earnings Call, Jan 26, 2022",,,NOW,enterprise_software
+2545578,2022-04-27,22967487,"ServiceNow, Inc.","ServiceNow, Inc., Q1 2022 Earnings Call, Apr 27, 2022",,,NOW,enterprise_software
+2610443,2022-07-27,22967487,"ServiceNow, Inc.","ServiceNow, Inc., Q2 2022 Earnings Call, Jul 27, 2022",,,NOW,enterprise_software
+2664384,2022-10-26,22967487,"ServiceNow, Inc.","ServiceNow, Inc., Q3 2022 Earnings Call, Oct 26, 2022",,,NOW,enterprise_software
+2721629,2023-01-25,22967487,"ServiceNow, Inc.","ServiceNow, Inc., Q4 2022 Earnings Call, Jan 25, 2023",,,NOW,enterprise_software
+2787226,2023-04-26,22967487,"ServiceNow, Inc.","ServiceNow, Inc., Q1 2023 Earnings Call, Apr 26, 2023",,,NOW,enterprise_software
+2869767,2023-07-26,22967487,"ServiceNow, Inc.","ServiceNow, Inc., Q2 2023 Earnings Call, Jul 26, 2023",,,NOW,enterprise_software
+2992712,2023-10-25,22967487,"ServiceNow, Inc.","ServiceNow, Inc., Q3 2023 Earnings Call, Oct 25, 2023",,,NOW,enterprise_software
+3003131,2024-01-24,22967487,"ServiceNow, Inc.","ServiceNow, Inc., 2023 Earnings Call, Jan 24, 2024",,,NOW,enterprise_software
+3095703,2024-04-24,22967487,"ServiceNow, Inc.","ServiceNow, Inc., Q1 2024 Earnings Call, Apr 24, 2024",,,NOW,enterprise_software
+3195189,2024-07-24,22967487,"ServiceNow, Inc.","ServiceNow, Inc., Q2 2024 Earnings Call, Jul 24, 2024",,,NOW,enterprise_software
+3287304,2024-10-23,22967487,"ServiceNow, Inc.","ServiceNow, Inc., Q3 2024 Earnings Call, Oct 23, 2024",,,NOW,enterprise_software
+2222657,2021-02-24,32307,NVIDIA Corporation,"NVIDIA Corporation, Q4 2021 Earnings Call, Feb 24, 2021",,,NVDA,semis_ai_infra
+2310723,2021-05-26,32307,NVIDIA Corporation,"NVIDIA Corporation, Q1 2022 Earnings Call, May 26, 2021",,,NVDA,semis_ai_infra
+2423398,2021-08-18,32307,NVIDIA Corporation,"NVIDIA Corporation, Q2 2022 Earnings Call, Aug 18, 2021",,,NVDA,semis_ai_infra
+2444170,2021-11-17,32307,NVIDIA Corporation,"NVIDIA Corporation, Q3 2022 Earnings Call, Nov 17, 2021",,,NVDA,semis_ai_infra
+3607710,2022-02-16,32307,NVIDIA Corporation,"NVIDIA Corporation, Q4 2022 Earnings Call, Feb 16, 2022",,,NVDA,semis_ai_infra
+2581030,2022-05-25,32307,NVIDIA Corporation,"NVIDIA Corporation, Q1 2023 Earnings Call, May 25, 2022",,,NVDA,semis_ai_infra
+2637661,2022-08-24,32307,NVIDIA Corporation,"NVIDIA Corporation, Q2 2023 Earnings Call, Aug 24, 2022",,,NVDA,semis_ai_infra
+2691769,2022-11-16,32307,NVIDIA Corporation,"NVIDIA Corporation, Q3 2023 Earnings Call, Nov 16, 2022",,,NVDA,semis_ai_infra
+2757369,2023-02-22,32307,NVIDIA Corporation,"NVIDIA Corporation, Q4 2023 Earnings Call, Feb 22, 2023",,,NVDA,semis_ai_infra
+3364312,2023-05-24,32307,NVIDIA Corporation,"NVIDIA Corporation, Q1 2024 Earnings Call, May 24, 2023",,,NVDA,semis_ai_infra
+3364330,2023-08-23,32307,NVIDIA Corporation,"NVIDIA Corporation, Q2 2024 Earnings Call, Aug 23, 2023",,,NVDA,semis_ai_infra
+3364337,2023-11-21,32307,NVIDIA Corporation,"NVIDIA Corporation, Q3 2024 Earnings Call, Nov 21, 2023",,,NVDA,semis_ai_infra
+3364354,2024-02-21,32307,NVIDIA Corporation,"NVIDIA Corporation, Q4 2024 Earnings Call, Feb 21, 2024",,,NVDA,semis_ai_infra
+3364361,2024-05-22,32307,NVIDIA Corporation,"NVIDIA Corporation, Q1 2025 Earnings Call, May 22, 2024",,,NVDA,semis_ai_infra
+3364452,2024-08-28,32307,NVIDIA Corporation,"NVIDIA Corporation, Q2 2025 Earnings Call, Aug 28, 2024",,,NVDA,semis_ai_infra
+3364467,2024-11-20,32307,NVIDIA Corporation,"NVIDIA Corporation, Q3 2025 Earnings Call, Nov 20, 2024",,,NVDA,semis_ai_infra
+2229942,2021-03-03,109373551,"Okta, Inc.","Okta, Inc., Q4 2021 Earnings Call, Mar 03, 2021",,,OKTA,ai_forward_saas
+2309705,2021-05-26,109373551,"Okta, Inc.","Okta, Inc., Q1 2022 Earnings Call, May 26, 2021",,,OKTA,ai_forward_saas
+2390668,2021-09-01,109373551,"Okta, Inc.","Okta, Inc., Q2 2022 Earnings Call, Sep 01, 2021",,,OKTA,ai_forward_saas
+2454028,2021-12-01,109373551,"Okta, Inc.","Okta, Inc., Q3 2022 Earnings Call, Dec 01, 2021",,,OKTA,ai_forward_saas
+2518173,2022-03-02,109373551,"Okta, Inc.","Okta, Inc., Q4 2022 Earnings Call, Mar 02, 2022",,,OKTA,ai_forward_saas
+2638304,2022-06-02,109373551,"Okta, Inc.","Okta, Inc., Q1 2023 Earnings Call, Jun 02, 2022",,,OKTA,ai_forward_saas
+2719971,2022-08-31,109373551,"Okta, Inc.","Okta, Inc., Q2 2023 Earnings Call, Aug 31, 2022",,,OKTA,ai_forward_saas
+2700567,2022-11-30,109373551,"Okta, Inc.","Okta, Inc., Q3 2023 Earnings Call, Nov 30, 2022",,,OKTA,ai_forward_saas
+2755409,2023-03-01,109373551,"Okta, Inc.","Okta, Inc., Q4 2023 Earnings Call, Mar 01, 2023",,,OKTA,ai_forward_saas
+2835118,2023-05-31,109373551,"Okta, Inc.","Okta, Inc., Q1 2024 Earnings Call, May 31, 2023",,,OKTA,ai_forward_saas
+2899783,2023-08-30,109373551,"Okta, Inc.","Okta, Inc., Q2 2024 Earnings Call, Aug 30, 2023",,,OKTA,ai_forward_saas
+2970548,2023-11-29,109373551,"Okta, Inc.","Okta, Inc., Q3 2024 Earnings Call, Nov 29, 2023",,,OKTA,ai_forward_saas
+3043611,2024-02-28,109373551,"Okta, Inc.","Okta, Inc., Q4 2024 Earnings Call, Feb 28, 2024",,,OKTA,ai_forward_saas
+3147644,2024-05-29,109373551,"Okta, Inc.","Okta, Inc., Q1 2025 Earnings Call, May 29, 2024",,,OKTA,ai_forward_saas
+3245026,2024-08-28,109373551,"Okta, Inc.","Okta, Inc., Q2 2025 Earnings Call, Aug 28, 2024",,,OKTA,ai_forward_saas
+3329636,2024-12-03,109373551,"Okta, Inc.","Okta, Inc., Q3 2025 Earnings Call, Dec 03, 2024",,,OKTA,ai_forward_saas
+2240477,2021-03-10,22247,Oracle Corporation,"Oracle Corporation, Q3 2021 Earnings Call, Mar 10, 2021",,,ORCL,enterprise_software
+2321379,2021-06-15,22247,Oracle Corporation,"Oracle Corporation, Q4 2021 Earnings Call, Jun 15, 2021",,,ORCL,enterprise_software
+2395957,2021-09-13,22247,Oracle Corporation,"Oracle Corporation, Q1 2022 Earnings Call, Sep 13, 2021",,,ORCL,enterprise_software
+2459451,2021-12-09,22247,Oracle Corporation,"Oracle Corporation, Q2 2022 Earnings Call, Dec 09, 2021",,,ORCL,enterprise_software
+2522984,2022-03-10,22247,Oracle Corporation,"Oracle Corporation, Q3 2022 Earnings Call, Mar 10, 2022",,,ORCL,enterprise_software
+2588744,2022-06-13,22247,Oracle Corporation,"Oracle Corporation, Q4 2022 Earnings Call, Jun 13, 2022",,,ORCL,enterprise_software
+2645685,2022-09-12,22247,Oracle Corporation,"Oracle Corporation, Q1 2023 Earnings Call, Sep 12, 2022",,,ORCL,enterprise_software
+2708926,2022-12-12,22247,Oracle Corporation,"Oracle Corporation, Q2 2023 Earnings Call, Dec 12, 2022",,,ORCL,enterprise_software
+2762334,2023-03-09,22247,Oracle Corporation,"Oracle Corporation, Q3 2023 Earnings Call, Mar 09, 2023",,,ORCL,enterprise_software
+2837173,2023-06-12,22247,Oracle Corporation,"Oracle Corporation, Q4 2023 Earnings Call, Jun 12, 2023",,,ORCL,enterprise_software
+2906116,2023-09-11,22247,Oracle Corporation,"Oracle Corporation, Q1 2024 Earnings Call, Sep 11, 2023",,,ORCL,enterprise_software
+3028804,2023-12-11,22247,Oracle Corporation,"Oracle Corporation, Q2 2024 Earnings Call, Dec 11, 2023",,,ORCL,enterprise_software
+3058479,2024-03-11,22247,Oracle Corporation,"Oracle Corporation, Q3 2024 Earnings Call, Mar 11, 2024",,,ORCL,enterprise_software
+3161421,2024-06-11,22247,Oracle Corporation,"Oracle Corporation, Q4 2024 Earnings Call, Jun 11, 2024",,,ORCL,enterprise_software
+3259133,2024-09-09,22247,Oracle Corporation,"Oracle Corporation, Q1 2025 Earnings Call, Sep 09, 2024",,,ORCL,enterprise_software
+3346380,2024-12-09,22247,Oracle Corporation,"Oracle Corporation, Q2 2025 Earnings Call, Dec 09, 2024",,,ORCL,enterprise_software
+2265399,2021-02-22,25460099,"Palo Alto Networks, Inc.","Palo Alto Networks, Inc., Q2 2021 Earnings Call, Feb 22, 2021",,,PANW,data_cloud_security
+3056218,2021-05-20,25460099,"Palo Alto Networks, Inc.","Palo Alto Networks, Inc., Q3 2021 Earnings Call, May 20, 2021",,,PANW,data_cloud_security
+2384461,2021-08-23,25460099,"Palo Alto Networks, Inc.","Palo Alto Networks, Inc., Q4 2021 Earnings Call, Aug 23, 2021",,,PANW,data_cloud_security
+2444902,2021-11-18,25460099,"Palo Alto Networks, Inc.","Palo Alto Networks, Inc., Q1 2022 Earnings Call, Nov 18, 2021",,,PANW,data_cloud_security
+2502865,2022-02-22,25460099,"Palo Alto Networks, Inc.","Palo Alto Networks, Inc., Q2 2022 Earnings Call, Feb 22, 2022",,,PANW,data_cloud_security
+2574750,2022-05-19,25460099,"Palo Alto Networks, Inc.","Palo Alto Networks, Inc., Q3 2022 Earnings Call, May 19, 2022",,,PANW,data_cloud_security
+2635909,2022-08-22,25460099,"Palo Alto Networks, Inc.","Palo Alto Networks, Inc., Q4 2022 Earnings Call, Aug 22, 2022",,,PANW,data_cloud_security
+2693187,2022-11-17,25460099,"Palo Alto Networks, Inc.","Palo Alto Networks, Inc., Q1 2023 Earnings Call, Nov 17, 2022",,,PANW,data_cloud_security
+2746746,2023-02-21,25460099,"Palo Alto Networks, Inc.","Palo Alto Networks, Inc., Q2 2023 Earnings Call, Feb 21, 2023",,,PANW,data_cloud_security
+3445570,2023-05-23,25460099,"Palo Alto Networks, Inc.","Palo Alto Networks, Inc., Q3 2023 Earnings Call, May 23, 2023",,,PANW,data_cloud_security
+2888413,2023-08-18,25460099,"Palo Alto Networks, Inc.","Palo Alto Networks, Inc., Q4 2023 Earnings Call, Aug 18, 2023",,,PANW,data_cloud_security
+2957653,2023-11-15,25460099,"Palo Alto Networks, Inc.","Palo Alto Networks, Inc., Q1 2024 Earnings Call, Nov 15, 2023",,,PANW,data_cloud_security
+3030482,2024-02-20,25460099,"Palo Alto Networks, Inc.","Palo Alto Networks, Inc., Q2 2024 Earnings Call, Feb 20, 2024",,,PANW,data_cloud_security
+3135263,2024-05-20,25460099,"Palo Alto Networks, Inc.","Palo Alto Networks, Inc., Q3 2024 Earnings Call, May 20, 2024",,,PANW,data_cloud_security
+3235639,2024-08-19,25460099,"Palo Alto Networks, Inc.","Palo Alto Networks, Inc., Q4 2024 Earnings Call, Aug 19, 2024",,,PANW,data_cloud_security
+3316112,2024-11-20,25460099,"Palo Alto Networks, Inc.","Palo Alto Networks, Inc., Q1 2025 Earnings Call, Nov 20, 2024",,,PANW,data_cloud_security
+2313784,2021-06-08,343303132,"UiPath, Inc.","UiPath Inc., Q1 2022 Earnings Call, Jun 08, 2021",,,PATH,ai_forward_saas
+2392061,2021-09-07,343303132,"UiPath, Inc.","UiPath Inc., Q2 2022 Earnings Call, Sep 07, 2021",,,PATH,ai_forward_saas
+2457771,2021-12-08,343303132,"UiPath, Inc.","UiPath Inc., Q3 2022 Earnings Call, Dec 08, 2021",,,PATH,ai_forward_saas
+2533524,2022-03-30,343303132,"UiPath, Inc.","UiPath Inc., Q4 2022 Earnings Call, Mar 30, 2022",,,PATH,ai_forward_saas
+2583528,2022-06-01,343303132,"UiPath, Inc.","UiPath Inc., Q1 2023 Earnings Call, Jun 01, 2022",,,PATH,ai_forward_saas
+2642475,2022-09-06,343303132,"UiPath, Inc.","UiPath Inc., Q2 2023 Earnings Call, Sep 06, 2022",,,PATH,ai_forward_saas
+2804732,2022-12-01,343303132,"UiPath, Inc.","UiPath Inc., Q3 2023 Earnings Call, Dec 01, 2022",,,PATH,ai_forward_saas
+2766257,2023-03-15,343303132,"UiPath, Inc.","UiPath Inc., Q4 2023 Earnings Call, Mar 15, 2023",,,PATH,ai_forward_saas
+2820675,2023-05-24,343303132,"UiPath, Inc.","UiPath Inc., Q1 2024 Earnings Call, May 24, 2023",,,PATH,ai_forward_saas
+2903912,2023-09-06,343303132,"UiPath, Inc.","UiPath Inc., Q2 2024 Earnings Call, Sep 06, 2023",,,PATH,ai_forward_saas
+2972264,2023-11-30,343303132,"UiPath, Inc.","UiPath Inc., Q3 2024 Earnings Call, Nov 30, 2023",,,PATH,ai_forward_saas
+3061496,2024-03-13,343303132,"UiPath, Inc.","UiPath Inc., Q4 2024 Earnings Call, Mar 13, 2024",,,PATH,ai_forward_saas
+3147743,2024-05-29,343303132,"UiPath, Inc.","UiPath Inc., Q1 2025 Earnings Call, May 29, 2024",,,PATH,ai_forward_saas
+3255562,2024-09-05,343303132,"UiPath, Inc.","UiPath Inc., Q2 2025 Earnings Call, Sep 05, 2024",,,PATH,ai_forward_saas
+3333105,2024-12-05,343303132,"UiPath, Inc.","UiPath Inc., Q3 2025 Earnings Call, Dec 05, 2024",,,PATH,ai_forward_saas
+2212359,2021-02-16,43580005,Palantir Technologies Inc.,"Palantir Technologies Inc., Q4 2020 Earnings Call, Feb 16, 2021",,,PLTR,ai_forward_saas
+2305302,2021-05-11,43580005,Palantir Technologies Inc.,"Palantir Technologies Inc., Q1 2021 Earnings Call, May 11, 2021",,,PLTR,ai_forward_saas
+2374798,2021-08-12,43580005,Palantir Technologies Inc.,"Palantir Technologies Inc., Q2 2021 Earnings Call, Aug 12, 2021",,,PLTR,ai_forward_saas
+2434246,2021-11-09,43580005,Palantir Technologies Inc.,"Palantir Technologies Inc., Q3 2021 Earnings Call, Nov 09, 2021",,,PLTR,ai_forward_saas
+3041945,2022-02-17,43580005,Palantir Technologies Inc.,"Palantir Technologies Inc., Q4 2021 Earnings Call, Feb 17, 2022",,,PLTR,ai_forward_saas
+2567849,2022-05-09,43580005,Palantir Technologies Inc.,"Palantir Technologies Inc., Q1 2022 Earnings Call, May 09, 2022",,,PLTR,ai_forward_saas
+2622354,2022-08-08,43580005,Palantir Technologies Inc.,"Palantir Technologies Inc., Q2 2022 Earnings Call, Aug 08, 2022",,,PLTR,ai_forward_saas
+2677560,2022-11-07,43580005,Palantir Technologies Inc.,"Palantir Technologies Inc., Q3 2022 Earnings Call, Nov 07, 2022",,,PLTR,ai_forward_saas
+2736513,2023-02-13,43580005,Palantir Technologies Inc.,"Palantir Technologies Inc., Q4 2022 Earnings Call, Feb 13, 2023",,,PLTR,ai_forward_saas
+2797860,2023-05-08,43580005,Palantir Technologies Inc.,"Palantir Technologies Inc., Q1 2023 Earnings Call, May 08, 2023",,,PLTR,ai_forward_saas
+2873577,2023-08-07,43580005,Palantir Technologies Inc.,"Palantir Technologies Inc., Q2 2023 Earnings Call, Aug 07, 2023",,,PLTR,ai_forward_saas
+3021666,2023-11-02,43580005,Palantir Technologies Inc.,"Palantir Technologies Inc., Q3 2023 Earnings Call, Nov 02, 2023",,,PLTR,ai_forward_saas
+3073357,2024-02-05,43580005,Palantir Technologies Inc.,"Palantir Technologies Inc., Q4 2023 Earnings Call, Feb 05, 2024",,,PLTR,ai_forward_saas
+3110822,2024-05-06,43580005,Palantir Technologies Inc.,"Palantir Technologies Inc., Q1 2024 Earnings Call, May 06, 2024",,,PLTR,ai_forward_saas
+3213353,2024-08-05,43580005,Palantir Technologies Inc.,"Palantir Technologies Inc., Q2 2024 Earnings Call, Aug 05, 2024",,,PLTR,ai_forward_saas
+3351502,2024-11-04,43580005,Palantir Technologies Inc.,"Palantir Technologies Inc., Q3 2024 Earnings Call, Nov 04, 2024",,,PLTR,ai_forward_saas
+2190375,2021-02-03,33493,QUALCOMM Incorporated,"QUALCOMM Incorporated, Q1 2021 Earnings Call, Feb 03, 2021",,,QCOM,semis_ai_infra
+2261728,2021-04-28,33493,QUALCOMM Incorporated,"QUALCOMM Incorporated, Q2 2021 Earnings Call, Apr 28, 2021",,,QCOM,semis_ai_infra
+2353592,2021-07-28,33493,QUALCOMM Incorporated,"QUALCOMM Incorporated, Q3 2021 Earnings Call, Jul 28, 2021",,,QCOM,semis_ai_infra
+2431130,2021-11-03,33493,QUALCOMM Incorporated,"QUALCOMM Incorporated, Q4 2021 Earnings Call, Nov 03, 2021",,,QCOM,semis_ai_infra
+2483349,2022-02-02,33493,QUALCOMM Incorporated,"QUALCOMM Incorporated, Q1 2022 Earnings Call, Feb 02, 2022",,,QCOM,semis_ai_infra
+2545467,2022-04-27,33493,QUALCOMM Incorporated,"QUALCOMM Incorporated, Q2 2022 Earnings Call, Apr 27, 2022",,,QCOM,semis_ai_infra
+2606095,2022-07-27,33493,QUALCOMM Incorporated,"QUALCOMM Incorporated, Q3 2022 Earnings Call, Jul 27, 2022",,,QCOM,semis_ai_infra
+2672656,2022-11-02,33493,QUALCOMM Incorporated,"QUALCOMM Incorporated, Q4 2022 Earnings Call, Nov 02, 2022",,,QCOM,semis_ai_infra
+2728439,2023-02-02,33493,QUALCOMM Incorporated,"QUALCOMM Incorporated, Q1 2023 Earnings Call, Feb 02, 2023",,,QCOM,semis_ai_infra
+2858959,2023-05-03,33493,QUALCOMM Incorporated,"QUALCOMM Incorporated, Q2 2023 Earnings Call, May 03, 2023",,,QCOM,semis_ai_infra
+2866637,2023-08-02,33493,QUALCOMM Incorporated,"QUALCOMM Incorporated, Q3 2023 Earnings Call, Aug 02, 2023",,,QCOM,semis_ai_infra
+2932835,2023-11-01,33493,QUALCOMM Incorporated,"QUALCOMM Incorporated, Q4 2023 Earnings Call, Nov 01, 2023",,,QCOM,semis_ai_infra
+3093115,2024-01-31,33493,QUALCOMM Incorporated,"QUALCOMM Incorporated, Q1 2024 Earnings Call, Jan 31, 2024",,,QCOM,semis_ai_infra
+3105534,2024-05-01,33493,QUALCOMM Incorporated,"QUALCOMM Incorporated, Q2 2024 Earnings Call, May 01, 2024",,,QCOM,semis_ai_infra
+3206833,2024-07-31,33493,QUALCOMM Incorporated,"QUALCOMM Incorporated, Q3 2024 Earnings Call, Jul 31, 2024",,,QCOM,semis_ai_infra
+3301037,2024-11-06,33493,QUALCOMM Incorporated,"QUALCOMM Incorporated, Q4 2024 Earnings Call, Nov 06, 2024",,,QCOM,semis_ai_infra
+2216056,2021-02-18,8690249,"Roku, Inc.","Roku, Inc., Q4 2020 Earnings Call, Feb 18, 2021",,,ROKU,platform_bigtech
+2273984,2021-05-06,8690249,"Roku, Inc.","Roku, Inc., Q1 2021 Earnings Call, May 06, 2021",,,ROKU,platform_bigtech
+2363621,2021-08-04,8690249,"Roku, Inc.","Roku, Inc., Q2 2021 Earnings Call, Aug 04, 2021",,,ROKU,platform_bigtech
+2424015,2021-11-03,8690249,"Roku, Inc.","Roku, Inc., Q3 2021 Earnings Call, Nov 03, 2021",,,ROKU,platform_bigtech
+2498419,2022-02-17,8690249,"Roku, Inc.","Roku, Inc., Q4 2021 Earnings Call, Feb 17, 2022",,,ROKU,platform_bigtech
+2547486,2022-04-28,8690249,"Roku, Inc.","Roku, Inc., Q1 2022 Earnings Call, Apr 28, 2022",,,ROKU,platform_bigtech
+2608428,2022-07-28,8690249,"Roku, Inc.","Roku, Inc., Q2 2022 Earnings Call, Jul 28, 2022",,,ROKU,platform_bigtech
+2672813,2022-11-02,8690249,"Roku, Inc.","Roku, Inc., Q3 2022 Earnings Call, Nov 02, 2022",,,ROKU,platform_bigtech
+2739693,2023-02-15,8690249,"Roku, Inc.","Roku, Inc., Q4 2022 Earnings Call, Feb 15, 2023",,,ROKU,platform_bigtech
+2787150,2023-04-26,8690249,"Roku, Inc.","Roku, Inc., Q1 2023 Earnings Call, Apr 26, 2023",,,ROKU,platform_bigtech
+2862027,2023-07-27,8690249,"Roku, Inc.","Roku, Inc., Q2 2023 Earnings Call, Jul 27, 2023",,,ROKU,platform_bigtech
+2932981,2023-11-01,8690249,"Roku, Inc.","Roku, Inc., Q3 2023 Earnings Call, Nov 01, 2023",,,ROKU,platform_bigtech
+3026322,2024-02-15,8690249,"Roku, Inc.","Roku, Inc., Q4 2023 Earnings Call, Feb 15, 2024",,,ROKU,platform_bigtech
+3098060,2024-04-25,8690249,"Roku, Inc.","Roku, Inc., Q1 2024 Earnings Call, Apr 25, 2024",,,ROKU,platform_bigtech
+3209482,2024-08-01,8690249,"Roku, Inc.","Roku, Inc., Q2 2024 Earnings Call, Aug 01, 2024",,,ROKU,platform_bigtech
+3294666,2024-10-30,8690249,"Roku, Inc.","Roku, Inc., Q3 2024 Earnings Call, Oct 30, 2024",,,ROKU,platform_bigtech
+2196548,2021-02-02,6479558,"Super Micro Computer, Inc.","Super Micro Computer, Inc., Q2 2021 Earnings Call, Feb 02, 2021",,,SMCI,semis_ai_infra
+2319226,2021-05-04,6479558,"Super Micro Computer, Inc.","Super Micro Computer, Inc., Q3 2021 Earnings Call, May 04, 2021",,,SMCI,semis_ai_infra
+2372312,2021-08-10,6479558,"Super Micro Computer, Inc.","Super Micro Computer, Inc., Q4 2021 Earnings Call, Aug 10, 2021",,,SMCI,semis_ai_infra
+2423652,2021-11-02,6479558,"Super Micro Computer, Inc.","Super Micro Computer, Inc., Q1 2022 Earnings Call, Nov 02, 2021",,,SMCI,semis_ai_infra
+2519896,2022-02-01,6479558,"Super Micro Computer, Inc.","Super Micro Computer, Inc., Q2 2022 Earnings Call, Feb 01, 2022",,,SMCI,semis_ai_infra
+2553752,2022-05-03,6479558,"Super Micro Computer, Inc.","Super Micro Computer, Inc., Q3 2022 Earnings Call, May 03, 2022",,,SMCI,semis_ai_infra
+2627339,2022-08-09,6479558,"Super Micro Computer, Inc.","Super Micro Computer, Inc., Q4 2022 Earnings Call, Aug 09, 2022",,,SMCI,semis_ai_infra
+2672438,2022-11-01,6479558,"Super Micro Computer, Inc.","Super Micro Computer, Inc., Q1 2023 Earnings Call, Nov 01, 2022",,,SMCI,semis_ai_infra
+2726599,2023-01-31,6479558,"Super Micro Computer, Inc.","Super Micro Computer, Inc., Q2 2023 Earnings Call, Jan 31, 2023",,,SMCI,semis_ai_infra
+3385041,2023-05-02,6479558,"Super Micro Computer, Inc.","Super Micro Computer, Inc., Q3 2023 Earnings Call, May 02, 2023",,,SMCI,semis_ai_infra
+2914629,2023-08-08,6479558,"Super Micro Computer, Inc.","Super Micro Computer, Inc., Q4 2023 Earnings Call, Aug 08, 2023",,,SMCI,semis_ai_infra
+2980966,2023-11-01,6479558,"Super Micro Computer, Inc.","Super Micro Computer, Inc., Q1 2024 Earnings Call, Nov 01, 2023",,,SMCI,semis_ai_infra
+3006217,2024-01-29,6479558,"Super Micro Computer, Inc.","Super Micro Computer, Inc., Q2 2024 Earnings Call, Jan 29, 2024",,,SMCI,semis_ai_infra
+3103553,2024-04-30,6479558,"Super Micro Computer, Inc.","Super Micro Computer, Inc., Q3 2024 Earnings Call, Apr 30, 2024",,,SMCI,semis_ai_infra
+3215209,2024-08-06,6479558,"Super Micro Computer, Inc.","Super Micro Computer, Inc., Q4 2024 Earnings Call, Aug 06, 2024",,,SMCI,semis_ai_infra
+3299437,2024-11-05,6479558,"Super Micro Computer, Inc.","Super Micro Computer, Inc., Q1 2025 Earnings Call, Nov 05, 2024",,,SMCI,semis_ai_infra
+2229976,2021-03-03,275004592,Snowflake Inc.,"Snowflake Inc., Q4 2021 Earnings Call, Mar 03, 2021",,,SNOW,data_cloud_security
+2301307,2021-05-26,275004592,Snowflake Inc.,"Snowflake Inc., Q1 2022 Earnings Call, May 26, 2021",,,SNOW,data_cloud_security
+2386254,2021-08-25,275004592,Snowflake Inc.,"Snowflake Inc., Q2 2022 Earnings Call, Aug 25, 2021",,,SNOW,data_cloud_security
+2453997,2021-12-01,275004592,Snowflake Inc.,"Snowflake Inc., Q3 2022 Earnings Call, Dec 01, 2021",,,SNOW,data_cloud_security
+2515043,2022-03-02,275004592,Snowflake Inc.,"Snowflake Inc., Q4 2022 Earnings Call, Mar 02, 2022",,,SNOW,data_cloud_security
+2579175,2022-05-25,275004592,Snowflake Inc.,"Snowflake Inc., Q1 2023 Earnings Call, May 25, 2022",,,SNOW,data_cloud_security
+2642030,2022-08-24,275004592,Snowflake Inc.,"Snowflake Inc., Q2 2023 Earnings Call, Aug 24, 2022",,,SNOW,data_cloud_security
+2700387,2022-11-30,275004592,Snowflake Inc.,"Snowflake Inc., Q3 2023 Earnings Call, Nov 30, 2022",,,SNOW,data_cloud_security
+2755321,2023-03-01,275004592,Snowflake Inc.,"Snowflake Inc., Q4 2023 Earnings Call, Mar 01, 2023",,,SNOW,data_cloud_security
+2820649,2023-05-24,275004592,Snowflake Inc.,"Snowflake Inc., Q1 2024 Earnings Call, May 24, 2023",,,SNOW,data_cloud_security
+2891953,2023-08-23,275004592,Snowflake Inc.,"Snowflake Inc., Q2 2024 Earnings Call, Aug 23, 2023",,,SNOW,data_cloud_security
+2970641,2023-11-29,275004592,Snowflake Inc.,"Snowflake Inc., Q3 2024 Earnings Call, Nov 29, 2023",,,SNOW,data_cloud_security
+3043673,2024-02-28,275004592,Snowflake Inc.,"Snowflake Inc., Q4 2024 Earnings Call, Feb 28, 2024",,,SNOW,data_cloud_security
+3139034,2024-05-22,275004592,Snowflake Inc.,"Snowflake Inc., Q1 2025 Earnings Call, May 22, 2024",,,SNOW,data_cloud_security
+3239093,2024-08-21,275004592,Snowflake Inc.,"Snowflake Inc., Q2 2025 Earnings Call, Aug 21, 2024",,,SNOW,data_cloud_security
+3350401,2024-11-20,275004592,Snowflake Inc.,"Snowflake Inc., Q3 2025 Earnings Call, Nov 20, 2024",,,SNOW,data_cloud_security
+2214338,2021-02-17,35028,"Synopsys, Inc.","Synopsys, Inc., Q1 2021 Earnings Call, Feb 17, 2021",,,SNPS,enterprise_software
+2350933,2021-05-19,35028,"Synopsys, Inc.","Synopsys, Inc., Q2 2021 Earnings Call, May 19, 2021",,,SNPS,enterprise_software
+2381741,2021-08-18,35028,"Synopsys, Inc.","Synopsys, Inc., Q3 2021 Earnings Call, Aug 18, 2021",,,SNPS,enterprise_software
+2454029,2021-12-01,35028,"Synopsys, Inc.","Synopsys, Inc., Q4 2021 Earnings Call, Dec 01, 2021",,,SNPS,enterprise_software
+2496595,2022-02-16,35028,"Synopsys, Inc.","Synopsys, Inc., Q1 2022 Earnings Call, Feb 16, 2022",,,SNPS,enterprise_software
+2573721,2022-05-18,35028,"Synopsys, Inc.","Synopsys, Inc., Q2 2022 Earnings Call, May 18, 2022",,,SNPS,enterprise_software
+3005924,2022-08-17,35028,"Synopsys, Inc.","Synopsys, Inc., Q3 2022 Earnings Call, Aug 17, 2022",,,SNPS,enterprise_software
+2700337,2022-11-30,35028,"Synopsys, Inc.","Synopsys, Inc., Q4 2022 Earnings Call, Nov 30, 2022",,,SNPS,enterprise_software
+2739376,2023-02-15,35028,"Synopsys, Inc.","Synopsys, Inc., Q1 2023 Earnings Call, Feb 15, 2023",,,SNPS,enterprise_software
+2811565,2023-05-17,35028,"Synopsys, Inc.","Synopsys, Inc., Q2 2023 Earnings Call, May 17, 2023",,,SNPS,enterprise_software
+3082144,2023-08-16,35028,"Synopsys, Inc.","Synopsys, Inc., Q3 2023 Earnings Call, Aug 16, 2023",,,SNPS,enterprise_software
+3019683,2023-11-29,35028,"Synopsys, Inc.","Synopsys, Inc., Q4 2023 Earnings Call, Nov 29, 2023",,,SNPS,enterprise_software
+3032560,2024-02-21,35028,"Synopsys, Inc.","Synopsys, Inc., Q1 2024 Earnings Call, Feb 21, 2024",,,SNPS,enterprise_software
+3139088,2024-05-22,35028,"Synopsys, Inc.","Synopsys, Inc., Q2 2024 Earnings Call, May 22, 2024",,,SNPS,enterprise_software
+3238207,2024-08-21,35028,"Synopsys, Inc.","Synopsys, Inc., Q3 2024 Earnings Call, Aug 21, 2024",,,SNPS,enterprise_software
+3331608,2024-12-04,35028,"Synopsys, Inc.","Synopsys, Inc., Q4 2024 Earnings Call, Dec 04, 2024",,,SNPS,enterprise_software
+2214365,2021-02-17,53507768,Twilio Inc.,"Twilio Inc., Q4 2020 Earnings Call, Feb 17, 2021",,,TWLO,ai_forward_saas
+2326734,2021-05-05,53507768,Twilio Inc.,"Twilio Inc., Q1 2021 Earnings Call, May 05, 2021",,,TWLO,ai_forward_saas
+2355558,2021-07-29,53507768,Twilio Inc.,"Twilio Inc., Q2 2021 Earnings Call, Jul 29, 2021",,,TWLO,ai_forward_saas
+2415021,2021-10-27,53507768,Twilio Inc.,"Twilio Inc., Q3 2021 Earnings Call, Oct 27, 2021",,,TWLO,ai_forward_saas
+2489709,2022-02-09,53507768,Twilio Inc.,"Twilio Inc., Q4 2021 Earnings Call, Feb 09, 2022",,,TWLO,ai_forward_saas
+2553622,2022-05-04,53507768,Twilio Inc.,"Twilio Inc., Q1 2022 Earnings Call, May 04, 2022",,,TWLO,ai_forward_saas
+2617353,2022-08-04,53507768,Twilio Inc.,"Twilio Inc., Q2 2022 Earnings Call, Aug 04, 2022",,,TWLO,ai_forward_saas
+2739337,2023-02-15,53507768,Twilio Inc.,"Twilio Inc., Q4 2022 Earnings Call, Feb 15, 2023",,,TWLO,ai_forward_saas
+2800399,2023-05-09,53507768,Twilio Inc.,"Twilio Inc., Q1 2023 Earnings Call, May 09, 2023",,,TWLO,ai_forward_saas
+2875716,2023-08-08,53507768,Twilio Inc.,"Twilio Inc., Q2 2023 Earnings Call, Aug 08, 2023",,,TWLO,ai_forward_saas
+2943481,2023-11-08,53507768,Twilio Inc.,"Twilio Inc., Q3 2023 Earnings Call, Nov 08, 2023",,,TWLO,ai_forward_saas
+3024063,2024-02-14,53507768,Twilio Inc.,"Twilio Inc., Q4 2023 Earnings Call, Feb 14, 2024",,,TWLO,ai_forward_saas
+3113300,2024-05-07,53507768,Twilio Inc.,"Twilio Inc., Q1 2024 Earnings Call, May 07, 2024",,,TWLO,ai_forward_saas
+3209522,2024-08-01,53507768,Twilio Inc.,"Twilio Inc., Q2 2024 Earnings Call, Aug 01, 2024",,,TWLO,ai_forward_saas
+3294780,2024-10-30,53507768,Twilio Inc.,"Twilio Inc., Q3 2024 Earnings Call, Oct 30, 2024",,,TWLO,ai_forward_saas
+2213940,2021-02-10,144524848,"Uber Technologies, Inc.","Uber Technologies, Inc., Q4 2020 Earnings Call, Feb 10, 2021",,,UBER,platform_bigtech
+2271413,2021-05-05,144524848,"Uber Technologies, Inc.","Uber Technologies, Inc., Q1 2021 Earnings Call, May 05, 2021",,,UBER,platform_bigtech
+2363576,2021-08-04,144524848,"Uber Technologies, Inc.","Uber Technologies, Inc., Q2 2021 Earnings Call, Aug 04, 2021",,,UBER,platform_bigtech
+2454533,2021-11-04,144524848,"Uber Technologies, Inc.","Uber Technologies, Inc., Q3 2021 Earnings Call, Nov 04, 2021",,,UBER,platform_bigtech
+2489575,2022-02-09,144524848,"Uber Technologies, Inc.","Uber Technologies, Inc., Q4 2021 Earnings Call, Feb 09, 2022",,,UBER,platform_bigtech
+2552640,2022-05-04,144524848,"Uber Technologies, Inc.","Uber Technologies, Inc., Q1 2022 Earnings Call, May 04, 2022",,,UBER,platform_bigtech
+2611817,2022-08-02,144524848,"Uber Technologies, Inc.","Uber Technologies, Inc., Q2 2022 Earnings Call, Aug 02, 2022",,,UBER,platform_bigtech
+2670132,2022-11-01,144524848,"Uber Technologies, Inc.","Uber Technologies, Inc., Q3 2022 Earnings Call, Nov 01, 2022",,,UBER,platform_bigtech
+2731541,2023-02-08,144524848,"Uber Technologies, Inc.","Uber Technologies, Inc., Q4 2022 Earnings Call, Feb 08, 2023",,,UBER,platform_bigtech
+2791306,2023-05-02,144524848,"Uber Technologies, Inc.","Uber Technologies, Inc., Q1 2023 Earnings Call, May 02, 2023",,,UBER,platform_bigtech
+2905960,2023-08-01,144524848,"Uber Technologies, Inc.","Uber Technologies, Inc., Q2 2023 Earnings Call, Aug 01, 2023",,,UBER,platform_bigtech
+2967719,2023-11-07,144524848,"Uber Technologies, Inc.","Uber Technologies, Inc., Q3 2023 Earnings Call, Nov 07, 2023",,,UBER,platform_bigtech
+3014812,2024-02-07,144524848,"Uber Technologies, Inc.","Uber Technologies, Inc., Q4 2023 Earnings Call, Feb 07, 2024",,,UBER,platform_bigtech
+3113965,2024-05-08,144524848,"Uber Technologies, Inc.","Uber Technologies, Inc., Q1 2024 Earnings Call, May 08, 2024",,,UBER,platform_bigtech
+3213898,2024-08-06,144524848,"Uber Technologies, Inc.","Uber Technologies, Inc., Q2 2024 Earnings Call, Aug 06, 2024",,,UBER,platform_bigtech
+3295134,2024-10-31,144524848,"Uber Technologies, Inc.","Uber Technologies, Inc., Q3 2024 Earnings Call, Oct 31, 2024",,,UBER,platform_bigtech
+2224599,2021-02-25,23815047,"Workday, Inc.","Workday, Inc., Q4 2021 Earnings Call, Feb 25, 2021",,,WDAY,enterprise_software
+2301285,2021-05-26,23815047,"Workday, Inc.","Workday, Inc., Q1 2022 Earnings Call, May 26, 2021",,,WDAY,enterprise_software
+2387127,2021-08-26,23815047,"Workday, Inc.","Workday, Inc., Q2 2022 Earnings Call, Aug 26, 2021",,,WDAY,enterprise_software
+2444772,2021-11-18,23815047,"Workday, Inc.","Workday, Inc., Q3 2022 Earnings Call, Nov 18, 2021",,,WDAY,enterprise_software
+2511839,2022-02-28,23815047,"Workday, Inc.","Workday, Inc., Q4 2022 Earnings Call, Feb 28, 2022",,,WDAY,enterprise_software
+2580121,2022-05-26,23815047,"Workday, Inc.","Workday, Inc., Q1 2023 Earnings Call, May 26, 2022",,,WDAY,enterprise_software
+2638566,2022-08-25,23815047,"Workday, Inc.","Workday, Inc., Q2 2023 Earnings Call, Aug 25, 2022",,,WDAY,enterprise_software
+2699443,2022-11-29,23815047,"Workday, Inc.","Workday, Inc., Q3 2023 Earnings Call, Nov 29, 2022",,,WDAY,enterprise_software
+2752343,2023-02-27,23815047,"Workday, Inc.","Workday, Inc., Q4 2023 Earnings Call, Feb 27, 2023",,,WDAY,enterprise_software
+2822165,2023-05-25,23815047,"Workday, Inc.","Workday, Inc., Q1 2024 Earnings Call, May 25, 2023",,,WDAY,enterprise_software
+2892734,2023-08-24,23815047,"Workday, Inc.","Workday, Inc., Q2 2024 Earnings Call, Aug 24, 2023",,,WDAY,enterprise_software
+2969050,2023-11-28,23815047,"Workday, Inc.","Workday, Inc., Q3 2024 Earnings Call, Nov 28, 2023",,,WDAY,enterprise_software
+3051200,2024-02-26,23815047,"Workday, Inc.","Workday, Inc., Q4 2024 Earnings Call, Feb 26, 2024",,,WDAY,enterprise_software
+3279983,2024-05-23,23815047,"Workday, Inc.","Workday, Inc., Q1 2025 Earnings Call, May 23, 2024",,,WDAY,enterprise_software
+3239909,2024-08-22,23815047,"Workday, Inc.","Workday, Inc., Q2 2025 Earnings Call, Aug 22, 2024",,,WDAY,enterprise_software
+3332448,2024-11-26,23815047,"Workday, Inc.","Workday, Inc., Q3 2025 Earnings Call, Nov 26, 2024",,,WDAY,enterprise_software
+2236197,2021-03-01,223236753,"Zoom Communications, Inc.","Zoom Video Communications, Inc., Q4 2021 Earnings Call, Mar 01, 2021",,,ZM,ai_forward_saas
+2385866,2021-06-01,223236753,"Zoom Communications, Inc.","Zoom Video Communications, Inc., Q1 2022 Earnings Call, Jun 01, 2021",,,ZM,ai_forward_saas
+2389845,2021-08-30,223236753,"Zoom Communications, Inc.","Zoom Video Communications, Inc., Q2 2022 Earnings Call, Aug 30, 2021",,,ZM,ai_forward_saas
+2447357,2021-11-22,223236753,"Zoom Communications, Inc.","Zoom Video Communications, Inc., Q3 2022 Earnings Call, Nov 22, 2021",,,ZM,ai_forward_saas
+2536151,2022-02-28,223236753,"Zoom Communications, Inc.","Zoom Video Communications, Inc., Q4 2022 Earnings Call, Feb 28, 2022",,,ZM,ai_forward_saas
+2576944,2022-05-23,223236753,"Zoom Communications, Inc.","Zoom Video Communications, Inc., Q1 2023 Earnings Call, May 23, 2022",,,ZM,ai_forward_saas
+2635905,2022-08-22,223236753,"Zoom Communications, Inc.","Zoom Video Communications, Inc., Q2 2023 Earnings Call, Aug 22, 2022",,,ZM,ai_forward_saas
+2695611,2022-11-21,223236753,"Zoom Communications, Inc.","Zoom Video Communications, Inc., Q3 2023 Earnings Call, Nov 21, 2022",,,ZM,ai_forward_saas
+2752359,2023-02-27,223236753,"Zoom Communications, Inc.","Zoom Video Communications, Inc., Q4 2023 Earnings Call, Feb 27, 2023",,,ZM,ai_forward_saas
+2821933,2023-05-22,223236753,"Zoom Communications, Inc.","Zoom Video Communications, Inc., Q1 2024 Earnings Call, May 22, 2023",,,ZM,ai_forward_saas
+2889985,2023-08-21,223236753,"Zoom Communications, Inc.","Zoom Video Communications, Inc., Q2 2024 Earnings Call, Aug 21, 2023",,,ZM,ai_forward_saas
+2962074,2023-11-20,223236753,"Zoom Communications, Inc.","Zoom Video Communications, Inc., Q3 2024 Earnings Call, Nov 20, 2023",,,ZM,ai_forward_saas
+3040193,2024-02-26,223236753,"Zoom Communications, Inc.","Zoom Video Communications, Inc., Q4 2024 Earnings Call, Feb 26, 2024",,,ZM,ai_forward_saas
+3135218,2024-05-20,223236753,"Zoom Communications, Inc.","Zoom Video Communications, Inc., Q1 2025 Earnings Call, May 20, 2024",,,ZM,ai_forward_saas
+3242836,2024-08-21,223236753,"Zoom Communications, Inc.","Zoom Video Communications, Inc., Q2 2025 Earnings Call, Aug 21, 2024",,,ZM,ai_forward_saas
+3318345,2024-11-25,223236753,"Zoom Communications, Inc.","Zoom Video Communications, Inc., Q3 2025 Earnings Call, Nov 25, 2024",,,ZM,ai_forward_saas

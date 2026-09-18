@@ -1,0 +1,13 @@
+period,attitude,n_paragraphs,share
+post,mixed,64,0.02331511839708561
+post,negative,52,0.01894353369763206
+post,neutral,1442,0.5253187613843352
+post,positive,1187,0.43242258652094717
+pre,mixed,7,0.011513157894736841
+pre,negative,18,0.029605263157894735
+pre,neutral,367,0.6036184210526315
+pre,positive,216,0.35526315789473684
+transition,mixed,2,0.02666666666666667
+transition,negative,3,0.04
+transition,neutral,42,0.56
+transition,positive,28,0.37333333333333335

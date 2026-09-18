@@ -1,0 +1,7 @@
+| Company type | AI strategy & investment | AI infrastructure & computing | Generative AI & LLM | AI productivity & enterprise applications | AI content & customer experience | AI security, risk & responsibility |
+| --- | --- | --- | --- | --- | --- | --- |
+| Platform / Big Tech | +19.8 | +12.0 | +34.6 | +7.8 | +13.1 | +0.8 |
+| Enterprise software | +13.3 | +3.1 | +42.2 | +26.5 | +13.0 | -2.7 |
+| Semiconductors / AI infrastructure | +29.6 | +2.1 | +30.0 | +6.4 | +7.7 | -4.6 |
+| AI-forward SaaS | +16.0 | +1.2 | +38.5 | +12.4 | +26.5 | +5.9 |
+| Data / cloud / cybersecurity | +18.0 | +10.3 | +42.7 | +15.8 | +22.9 | +2.0 |

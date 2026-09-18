@@ -1,0 +1,17 @@
+level,outcome,comparison_group,base_group,interaction_coefficient,cluster_se,z_value,p_value,n_paragraphs,n_calls,fixed_effects,cluster
+paragraph,positive,enterprise_software,platform_bigtech,0.01934119888674704,0.06508234122727254,0.29718044129983107,0.7663287532934049,3353,559,company + year_quarter,call_key
+paragraph,positive,semis_ai_infra,platform_bigtech,0.029083472941428448,0.06697061699959747,0.43427213671337767,0.6640908348559303,3353,559,company + year_quarter,call_key
+paragraph,positive,ai_forward_saas,platform_bigtech,-0.06366073050665122,0.07765162177387362,-0.8198248671745099,0.41231595278596367,3353,559,company + year_quarter,call_key
+paragraph,positive,data_cloud_security,platform_bigtech,0.039041135066839844,0.07548475920294928,0.5172055323363138,0.6050126904833548,3353,559,company + year_quarter,call_key
+paragraph,neutral,enterprise_software,platform_bigtech,-0.01319350060272861,0.06426915973755522,-0.20528509562914177,0.8373493880533404,3353,559,company + year_quarter,call_key
+paragraph,neutral,semis_ai_infra,platform_bigtech,-0.029304265265113774,0.06425352421555604,-0.456072497545887,0.6483378463267571,3353,559,company + year_quarter,call_key
+paragraph,neutral,ai_forward_saas,platform_bigtech,0.04005727301637624,0.07550727742747905,0.5305087718842629,0.5957592287804022,3353,559,company + year_quarter,call_key
+paragraph,neutral,data_cloud_security,platform_bigtech,0.05582414226239339,0.07643690969142139,0.7303296599477596,0.46518870261786516,3353,559,company + year_quarter,call_key
+paragraph,negative,enterprise_software,platform_bigtech,0.009773721360244316,0.01720913125736163,0.5679381029802631,0.5700769980473362,3353,559,company + year_quarter,call_key
+paragraph,negative,semis_ai_infra,platform_bigtech,0.014706877562742728,0.014409410564603686,1.0206439393759632,0.3074231638374165,3353,559,company + year_quarter,call_key
+paragraph,negative,ai_forward_saas,platform_bigtech,0.03403403278810173,0.024716313585765367,1.3769866072464232,0.16851638854933396,3353,559,company + year_quarter,call_key
+paragraph,negative,data_cloud_security,platform_bigtech,-0.050642595669580126,0.037418716471754356,-1.353402800649452,0.17592698322589403,3353,559,company + year_quarter,call_key
+paragraph,mixed,enterprise_software,platform_bigtech,-0.015921419644287362,0.008702732760166572,-1.8294735783639786,0.06732869392028776,3353,559,company + year_quarter,call_key
+paragraph,mixed,semis_ai_infra,platform_bigtech,-0.01448608523908413,0.009434955791630837,-1.5353633402218838,0.12469460342628413,3353,559,company + year_quarter,call_key
+paragraph,mixed,ai_forward_saas,platform_bigtech,-0.010430575297852908,0.013865822923971623,-0.7522507214353817,0.4519002964207045,3353,559,company + year_quarter,call_key
+paragraph,mixed,data_cloud_security,platform_bigtech,-0.04422268165967985,0.03107939232036477,-1.4228940258494998,0.15476687834747754,3353,559,company + year_quarter,call_key

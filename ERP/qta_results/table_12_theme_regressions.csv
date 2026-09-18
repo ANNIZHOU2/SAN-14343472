@@ -1,0 +1,13 @@
+level,outcome,coefficient,cluster_se,z_value,p_value,n_observations,n_clusters,fixed_effects,controls,cluster
+paragraph,AI strategy and investment,1.3083944621493463e-05,0.022608476701182732,0.0005787185397063481,0.9995382494378925,3353,559,company + quarter_of_year,none,earnings_call
+call,AI strategy and investment,0.059508792819960965,0.04152017539009781,1.4332500347325914,0.15178639540158967,559,45,company + quarter_of_year,log_total_paragraphs,company
+paragraph,AI infrastructure and computing,0.001019890641837485,0.01852716359992062,0.055048396174461084,0.9560999076456543,3353,559,company + quarter_of_year,none,earnings_call
+call,AI infrastructure and computing,0.005363948166745678,0.026617164276611077,0.20152214980538197,0.8402903116464355,559,45,company + quarter_of_year,log_total_paragraphs,company
+paragraph,Generative AI and LLM,0.423537149182589,0.01768086173564325,23.954553545813372,8.28381870433086e-127,3353,559,company + quarter_of_year,none,earnings_call
+call,Generative AI and LLM,0.4065591184885153,0.033800266373563606,12.028281493263606,2.5235885877691875e-33,559,45,company + quarter_of_year,log_total_paragraphs,company
+paragraph,AI productivity and enterprise applications,0.08823826979615157,0.02034401797327863,4.33730789621059,1.4423850502687184e-05,3353,559,company + quarter_of_year,none,earnings_call
+call,AI productivity and enterprise applications,0.08249625178336627,0.030725072875998214,2.684981484545497,0.0072533824314995245,559,45,company + quarter_of_year,log_total_paragraphs,company
+paragraph,AI content and customer experience,0.04850833260414432,0.019500847976300157,2.487498628936426,0.012864494944387487,3353,559,company + quarter_of_year,none,earnings_call
+call,AI content and customer experience,0.06094044871278247,0.030082289922598156,2.0257915494326553,0.04278615027769285,559,45,company + quarter_of_year,log_total_paragraphs,company
+paragraph,"AI security, risk and responsibility",-0.03406402414364637,0.014279395594562469,-2.385536832988772,0.017054214499216357,3353,559,company + quarter_of_year,none,earnings_call
+call,"AI security, risk and responsibility",-0.05472195514507384,0.023110731622796678,-2.367815785247383,0.01789344271802702,559,45,company + quarter_of_year,log_total_paragraphs,company
